@@ -1,0 +1,300 @@
+{
+    "bands": [
+        {
+
+          "id":"1",
+          "img": "/assets/acdc/acdc.jpg",
+          "title": "AC/DC",
+          "description": "ACϟDC es una banda de hard rock británica-australiana, formada en 1973 en Australia por los hermanos escoceses Malcolm y Angus Young.",
+          "link": "/albums/1"
+        },
+        {
+          "id":"2",
+          "img": "/assets/adaytoremember/adaytoremember.jpg",
+          "title": "A Day To Remember",
+          "description": "A Day To Remember es una banda estadounidense de Pop Punk y Metalcore formada en Ocala, Florida, en 2003. Se caracterizan por la fusión del metalcore con el pop punk. El grupo se encuentra actualmente formado por Jeremy McKinnon, Neil Westfall, Joshua Woodard, Alex Shelnutt y Kevin Skaff",
+          "link": "/albums/2"
+
+        },
+        {
+          "id":"3",
+          "img": "/assets/aeternus/aeternus.jpg",
+          "title": "Aeternus",
+          "description": "Aeternus es una banda de death metal fundada en 1993 por el vocalista y guitarrista Ronny Hovland y el batería Erik Heggernes en Bergen, Noruega.",
+          "link": "/albums/3"
+        },
+        {
+          "id":"4",
+          "img": "/assets/amonamarth/amonamarth.jpg",
+          "title": "Amon Amarth",
+          "description": "Amon Amarth es una banda sueca de death metal melódico formada en Tumba, Suecia, en 1992. Su nombre significa Monte del Destino en sindarin. La banda fue originalmente conocida como Scum, y grabó una única demo bajo este nombre en 1988 antes de cambiarlo a Amon Amarth en 1992.",
+          "link": "/albums/4"
+        },
+        {
+          "id":"5",
+          "img": "/assets/anthrax/anthrax1.jpg",
+          "title": "Anthrax",
+          "description": "Anthrax es una banda estadounidense de thrash metal formada en Nueva York en 1981, por el guitarrista Scott Ian y el bajista Dan Lilker. Está considerado como uno de los grupos principales de la escena thrash junto a Metallica, Megadeth y Slayer.",
+          "link": "/albums/5"
+        },
+        {
+          "id":"6",
+          "img": "/assets/apocalyptica/apocalyptica.jpg",
+          "title": "Apocalyptica",
+          "description": "Apocalyptica es una banda de metal alternativo y chelo metal formada en Helsinki en 1992 por cuatro violonchelistas graduados de la academia de música clásica Sibelius. Es conocida por tocar canciones de hard rock/heavy metal con violonchelos.",
+          "link": "/albums/6"
+        },
+        {
+          "id":"7",
+          "img": "/assets/arch/arch.jpg",
+          "title": "Arch Enemy",
+          "description": "Arch Enemy es una banda sueca de death metal melódico formada en Halmstad en 1995. En sus inicios exploró el death metal original, pero sufrió una transformación musical después del cambio de integrantes que tuvo, y comenzó a hacer un death metal más melódico, que sigue haciendo actualmente.",
+          "link": "/albums/7"
+        },
+        {
+          "id":"8",
+          "img": "/assets/askingalexandria/askingalexandria.jpg",
+          "title": "Asking Alexandria",
+          "description": "Asking Alexandria es una banda británica de screamo/metalcore integrada actualmente por Danny Worsnop, Ben Bruce, Cameron Liddell, Sam Bettley y James Cassells.",
+          "link": "/albums/8"
+        },
+        {
+          "id":"9",
+          "img": "/assets/augustburnsred/augustburnsred.jpg",
+          "title": "August Burns Red",
+          "description": "August Burns Red es una banda de metalcore originaria de Lancaster, Estados Unidos. La banda fue formada en marzo de 2003 y empezaron su carrera tocando por su ciudad natal.",
+          "link": "/albums/9"
+        },
+        {
+          "id":"10",
+          "img": "/assets/avengedsevenfold/a7x1.jpg",
+          "title": "Avenged Sevenfold",
+          "description": "Avenged Sevenfold es una banda estadounidense de heavy metal originaria de Huntington Beach, California, fundada en 1999.",
+          "link": "/albums/10"
+        },
+        {
+          "id":"11",
+          "img": "/assets/blacksabbath/blacksabbath.jpg",
+          "title": "Black Sabbath",
+          "description": "Black Sabbath fue una banda británica de heavy metal y hard rock formada en 1968 en Birmingham por Tony Iommi, Ozzy Osbourne, Geezer Butler y Bill Ward.",
+          "link": "/albums/11"
+        },
+        {
+          "id":"12",
+          "img": "/assets/bullet/bullet.jpg",
+          "title": "Bullet For My Valentine",
+          "description": "Bullet For My Valentine es una banda galesa de metalcore procedente de Bridgend, Gales. El grupo se constituyó originalmente bajo el nombre de 'Jeff Killed John' en 1998, versionando canciones de Metallica y Nirvana.",
+          "link": "/albums/12"
+        },
+        {
+          "id":"13",
+          "img": "/assets/childrenofbodom/children.jpg",
+          "title": "Children Of Bodom",
+          "description": "Children of Bodom fue una banda finlandesa de metal formada en 1997 en Espoo. Su clasificación dentro de un género concreto es objeto de controversia y debate entre la crítica y los admiradores. Podría considerarse parte de diversos géneros, como el power metal, heavy metal y death metal melódico.",
+          "link": "/albums/13"
+        },
+        {
+          "id":"14",
+          "img": "/assets/coldplay/coldplay1.png",
+          "title": "Coldplay",
+          "description": "Coldplay es una banda británica de pop rock y rock alternativo formada en Londres en 1996. Está integrada por Chris Martin, Jon Buckland, Guy Berryman y Will Champion. Es uno de los grupos más relevantes de las décadas de los 2000 y 2010.",
+          "link": "/albums/14"
+        },
+        {
+          "id":"15",
+          "img": "/assets/cradleoffilth/cradle1.jpg",
+          "title": "Cradle Of Filth",
+          "description": "Cradle of Filth es una banda británica de Black Metal con influencias de metal gótico, y otros subgéneros del metal extremo formado en 1991, en Suffolk, Reino Unido.",
+          "link": "/albums/15"
+        },
+        {
+          "id":"16",
+          "img": "/assets/dimmuborgir/dimmu.jpg",
+          "title": "Dimmu Borgir",
+          "description": "Dimmu Borgir es una banda noruega de black metal sinfónico, fundada en 1993 por Ian Kenneth Åkesson, Stian Thoresen y Sven Atle Kopperud en la ciudad de Oslo. Estos dos últimos han sido los únicos miembros estables desde entonces.",
+          "link": "/albums/16"
+        },
+        {
+          "id":"17",
+          "img": "/assets/dragonforce/dragonforce1.jpg",
+          "title": "DragonForce",
+          "description": "DragonForce es una banda británica de power metal formada en el año 1999, en Londres, Inglaterra y compuesta por músicos de Sudáfrica, China, Reino Unido, Italia, Francia y Ucrania.",
+          "link": "/albums/17"
+        },
+        {
+          "id":"18",
+          "img": "/assets/dreamtheater/dreams.jpg",
+          "title": "Dream Theater",
+          "description": "Dream Theater es una banda estadounidense de metal progresivo, formada en 1985 con el nombre de Majesty por Mike Portnoy, John Myung y John Petrucci durante su estadía en el Berklee College of Music de Massachusetts.",
+          "link": "/albums/18"
+        },
+        {
+          "id":"19",
+          "img": "/assets/epica/epica.jpg",
+          "title": "Epica",
+          "description": "Epica es una banda neerlandesa de metal sinfónico y de Opera, fundada en el año 2002 por el compositor, guitarrista y vocalista Mark Jansen después de su salida de After Forever.",
+          "link": "/albums/19"
+        },
+        {
+          "id":"20",
+          "img": "/assets/evanescence/evanescence.jpg",
+          "title": "Evanescence",
+          "description": "Evanescence es una banda estadounidense de rock fundada en Little Rock, Arkansas, en 1995 por la cantante, pianista y compositora Amy Lee y el guitarrista Ben Moody.",
+          "link": "/albums/20"
+        },
+        {
+          "id":"21",
+          "img": "/assets/galneryus/galneryus.jpg",
+          "title": "Galneryus",
+          "description": "GALNERYUS es una banda japonesa de power metal con influencias de grupos del metal como Dream Theater, Helloween, Sonata Arctica, Stratovarius y X Japan.",
+          "link": "/albums/21"
+        },
+        {
+          "id":"22",
+          "img": "/assets/ironmaiden/ironmaiden.jpg",
+          "title": "Iron Maiden",
+          "description": "Iron Maiden es una banda británica de heavy metal fundada en 1975 por el bajista Steve Harris. Es considerada una de las bandas más importantes de todos los tiempos en este género.",
+          "link": "/albums/22"
+        },
+        {
+          "id":"23",
+          "img": "/assets/judaspriest/judaspriest1.png",
+          "title": "Judas Priest",
+          "description": "Judas Priest es una banda británica de heavy metal fundada en 1969 en Birmingham, Inglaterra. Su alineación inicial estuvo liderada por el vocalista Al Atkins, por ello la prensa ha nombrado esta primera etapa como Al Atkin’s Judas Priest. Más tarde a mediados de 1970, Atkins se unió a K.K.",
+          "link": "/albums/23"
+        },
+        {
+          "id":"24",
+          "img": "/assets/kiss/kiss1.jpg",
+          "title": "Kiss",
+          "description": "Kiss es una banda estadounidense de rock formada en Nueva York en enero de 1973 por el bajista Gene Simmons y el guitarrista Paul Stanley, a los que más tarde se unirían el batería Peter Criss y el guitarrista Ace Frehley.",
+          "link": "/albums/24"
+        },
+        {
+          "id":"25",
+          "img": "/assets/leaveseyes/leaveseyes.jpg",
+          "title": "Leaves Eyes",
+          "description": "Leaves' Eyes es una banda de metal sinfónico originaria de Luisburgo, Alemania. Formada en 2003 por Liv Kristine, exvocalista de Theatre of Tragedy, y por el equipo entero de Atrocity, liderado por su esposo Alexander Krull.",
+          "link": "/albums/25"
+        },
+        {
+          "id":"26",
+          "img": "/assets/ledzeppelin/ledzeppelin.jpg",
+          "title": "Led Zeppelin",
+          "description": "Una banda de metal.",
+          "link": "/albums/26"
+        },
+        {
+          "id":"27",
+          "img": "/assets/linkinpark/linkinpart.jpg",
+          "title": "Linkin Park",
+          "description": "Linkin Park es una banda estadounidense de rock alternativo procedente de Agoura Hills, California. Se formó en 1996. Integrada por Mike Shinoda, Dave Farrell, Joe Hahn, Brad Delson, Rob Bourdon y Chester Bennington, este último como voz principal.",
+          "link": "/albums/27"
+        },
+        {
+          "id":"28",
+          "img": "/assets/machinehead/machineheadband.jpg",
+          "title": "Machine Head",
+          "description": "Machine Head es una banda estadounidense de groove metal formada el 12 de octubre de 1991 en Oakland, Estado de California por Robb Flynn y Adam Duce.",
+          "link": "/albums/28"
+        },
+        {
+          "id":"29",
+          "img": "/assets/magodeoz/magodeoz.jpg",
+          "title": "Mago De Oz",
+          "description": "Mägo de Oz es una banda de Folk Metal fundada el 7 de julio de 1988 por el baterista Txus di Fellatio. Se caracterizan por su heterogénea y peculiar propuesta musical de mezclar géneros como el Heavy Metal, Power Metal, Folk Metal, Celtic Metal, Hard Rock entre otros.",
+          "link": "/albums/29"
+        },
+        {
+          "id":"30",
+          "img": "/assets/megadeth/megadeth.jpg",
+          "title": "Megadeth",
+          "description": "Megadeth es una banda estadounidense de thrash metal, formada en Los Ángeles, California. Fue creada en 1983 por Dave Mustaine, después de que fuera expulsado de Metallica, donde ocupaba el puesto de guitarrista principal.",
+          "link": "/albums/30"
+        },
+        {
+          "id":"31",
+          "img": "/assets/metallica/metallica.jpg",
+          "title": "Metallica",
+          "description": "Metallica es una banda estadounidense de rock originaria de Los Ángeles, pero con base en San Francisco desde febrero de 1983. Fue fundada en 1981 en Los Ángeles por Lars Ulrich y James Hetfield, a los que se les unirían Dave Mustaine y Ron McGovney.",
+          "link": "/albums/31"
+        },
+        {
+          "id":"32",
+          "img": "/assets/muse/muse1.jpg",
+          "title": "Muse",
+          "description": "Muse es una banda británica de rock alternativo formada en 1994 en Inglaterra. Desde su formación en la década de los 90, sus integrantes son: Matt Bellamy; Dominic Howard; y Christopher Wolstenholme.",
+          "link": "/albums/32"
+        },
+        {
+          "id":"33",
+          "img": "/assets/mychemicalromance/mychemicalromance1.jpg",
+          "title": "My Chemical Romance",
+          "description": "My Chemical Romance es una banda estadounidense de rock, formada en el año 2001 en el estado de Nueva Jersey, e integrada en la mayor parte de su historia por el vocalista Gerard Way, el bajista Mikey Way y los guitarristas Ray Toro y Frank Iero; también Matt Pelissier y Bob Bryar fueron alguna vez los bateristas.",
+          "link": "/albums/33"
+        },
+        {
+          "id":"34",
+          "img": "/assets/pantera/pantera.jpg",
+          "title": "Pantera",
+          "description": "Pantera fue una banda estadounidense de groove metal fundada en 1981 por los hermanos Abbott, Darrell y Vinnie Paul, en Arlington, Texas. El bajista Rex Brown se uniría a finales de 1981 con el vocalista, guitarrista y tecladista Terry Glaze. En 1985 Phil Anselmo se convertiría en el vocalista principal del grupo.",
+          "link": "/albums/34"
+        },
+        {
+          "id":"35",
+          "img": "/assets/pinkfloyd/pinkfloyd.jpg",
+          "title": "Pink Floyd",
+          "description": "Pink Floyd fue una banda de rock británica, fundada en Londres en 1965. Es considerada un icono cultural del siglo xx y una de las bandas más influyentes y aclamadas en la historia de la música.",
+          "link": "/albums/35"
+        },
+        {
+          "id":"36",
+          "img": "/assets/rammstein/rammstein.jpg",
+          "title": "Rammstein",
+          "description": "Rammstein es una banda alemana de rock formada en 1994 por los músicos Till Lindemann, Richard Z. Kruspe, Oliver Riedel, Paul Landers, Christian Lorenz y Christoph Schneider.",
+          "link": "/albums/36"
+        },
+        {
+          "id":"37",
+          "img": "/assets/septicflesh/septicflesh.jpg",
+          "title": "Septic Flesh",
+          "description": "Septicflesh es una banda griega de Death Metal Sinfónico con influencias de Doom Metal y Metal Gótico procedente de Atenas, Ática, fundada en 1990.",
+          "link": "/albums/37"
+        },
+        {
+          "id":"38",
+          "img": "/assets/sirenia/sirenia.jpg",
+          "title": "Sirenia",
+          "description": "Sirenia es una banda de metal gótico y metal sinfónico, originaria de la ciudad de Stavanger, Noruega. Fue fundada en 2001 por Morten Veland, quien además es cantante, compositor y principal instrumentista.",
+          "link": "/albums/38"
+        },
+        {
+          "id":"39",
+          "img": "/assets/stratovarius/stratovarius.jpg",
+          "title": "Stratovarius",
+          "description": "Stratovarius es una banda finlandesa de power metal melódico con elementos de música clásica, fundado en 1984 en Helsinki por Tuomo Lassila, John Vihervä y Staffan Stråhlman bajo el nombre Black Water. A partir de 1986 se le ha conocido como Stratovarius.",
+          "link": "/albums/39"
+        },
+        {
+          "id":"40",
+          "img": "/assets/thebeatles/thebeatles1.jpg",
+          "title": "The Beatles",
+          "description": "The Beatles fue una banda de rock británica activa durante la década de 1960, y reconocida como la más exitosa comercialmente y la más alabada por la crítica en la historia de la música popular y de la música rock.",
+          "link": "/albums/40"
+        },
+        {
+          "id":"41",
+          "img": "/assets/therasmus/therasmus1.jpg",
+          "title": "The Ramus",
+          "description": "The Rasmus es una banda finlandesa de rock alternativo y rock gótico formada en Helsinki en 1994. Los miembros originales de la banda son Lauri Ylönen, Pauli Rantasalmi, Eero Heinonen y Jarno Lahti, siendo este último reemplazado por Janne Heiskanen en 1995.",
+          "link": "/albums/41"
+        },
+        {
+          "id":"42",
+          "img": "/assets/tierrasanta/tierrasanta.jpg",
+          "title": "Tierra Santa",
+          "description": "Tierra Santa es un grupo musical español de heavy metal y power metal épico de La Rioja, España.",
+          "link": "/albums/42"
+        }
+    ]
+}

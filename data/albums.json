@@ -1,0 +1,2068 @@
+{
+  "albums": [
+    {
+      "bandId": "1",
+      "title": "Back In Black ", 
+      "year": "1980",
+      "img": "/img/acdc/backinblack1980.jpg"
+    },
+    {
+      "bandId": "1",
+      "title": "Dirty Deeds Done Dirt Cheap", 
+      "year": "1976",
+      "img": "/img/acdc/dirtydeedsdonedirtcheap1976.jpg"
+    },
+    {
+      "bandId": "1",
+      "title": "Fly On The Wall", 
+      "year": "1985",
+      "img": "/img/acdc/flyonthewall.jpg"
+    },
+    {
+      "bandId": "1",
+      "title": "High Voltage", 
+      "year": "1976",
+      "img": "/img/acdc/highvoltage1976.jpg"
+    },
+    {
+      "bandId": "1",
+      "title": "Highway To Hell1", 
+      "year": "1979",
+      "img": "/img/acdc/highwaytohell1979.jpg"
+    },
+    {
+      "bandId": "1",
+      "title": "Powerage", 
+      "year": "1978",
+      "img": "/img/acdc/powerage1978.jpg"
+    },
+    {
+      "bandId": "1",
+      "title": "Who Made Who", 
+      "year": "1986",
+      "img": "/img/acdc/whomadewho1986.jpg"
+    },
+
+    {
+      "bandId": "2",
+      "title": "Bad Vibrations", 
+      "year": "2006",
+      "img": "/img/adaytoremember/badvibrations.jpg"
+    },
+    {
+      "bandId": "2",
+      "title": "What Separates Me From You", 
+      "year": "2010",
+      "img": "/img/adaytoremember/whatseparatesmefromyou.jpg"
+    },
+    {
+      "bandId": "2",
+      "title": "Youre Welcome", 
+      "year": "2021",
+      "img": "/img/adaytoremember/yourewelcome.jpg"
+    },
+
+    {
+      "bandId": "3",
+      "title": "Beyond The Wandering Moon", 
+      "year": "1997",
+      "img": "/img/aeternus/beyondthewanderingmoon1997.jpg"
+    },
+
+    {
+      "bandId": "4",
+      "title": "The Avenger", 
+      "year": "1999",
+      "img": "/img/amonamarth/theavenger1999.jpg"
+    },
+    {
+      "bandId": "4",
+      "title": "Twilight of the Thunder God", 
+      "year": "2008",
+      "img": "/img/amonamarth/twilightofthethundergod2008.jpg"
+    },
+    {
+      "bandId": "4",
+      "title": "Surtur Rising", 
+      "year": "2011",
+      "img": "/img/amonamarth/surturrising2011.jpg"
+    },
+    {
+      "bandId": "4",
+      "title": "Deceiver of the Gods", 
+      "year": "2013",
+      "img": "/img/amonamarth/deceiverofthegods2013.jpg"
+    },
+
+    {
+      "bandId": "5",
+      "title": "Fistfulof Metal", 
+      "year": "1984",
+      "img": "/img/anthrax/fistfulofmetal.jpg"
+    },
+    {
+      "bandId": "5",
+      "title": "Spreading The Disease", 
+      "year": "1985",
+      "img": "/img/anthrax/spreadingthedisease.jpg"
+    },
+    {
+      "bandId": "5",
+      "title": "Among The Living", 
+      "year": "1986",
+      "img": "/img/anthrax/amongtheliving.jpg"
+    },
+
+    {
+      "bandId": "6",
+      "title": "Cult", 
+      "year": "2000",
+      "img": "/img/apocalyptica/cult2000.jpg"
+    },
+    {
+      "bandId": "6",
+      "title": "Apocalyptica", 
+      "year": "2005",
+      "img": "/img/apocalyptica/apocalyptica2005.jpg"
+    },
+    {
+      "bandId": "6",
+      "title": "7th Symphony", 
+      "year": "2010",
+      "img": "/img/apocalyptica/7thsymphony2010.jpg"
+    },
+
+    {
+      "bandId": "7",
+      "title": "Black Earth", 
+      "year": "1996",
+      "img": "/img/arch/blackearth1996.jpg"
+    },
+    {
+      "bandId": "7",
+      "title": "Stigmata", 
+      "year": "1998",
+      "img": "/img/arch/stigmata1998.jpg"
+    },
+    {
+      "bandId": "7",
+      "title": "Wages of Sin", 
+      "year": "2001",
+      "img": "/img/arch/wagesofsin2001.jpg"
+    },
+    {
+      "bandId": "7",
+      "title": "Anthems of the Rebellion", 
+      "year": "2003",
+      "img": "/img/arch/anthemsofrebellion2003.jpg"
+    },
+    {
+      "bandId": "7",
+      "title": "Doomsday Machine", 
+      "year": "2005",
+      "img": "/img/arch/doomsdaymachine2005.jpg"
+    },
+    {
+      "bandId": "7",
+      "title": "Rise of the Tyrant", 
+      "year": "2007",
+      "img": "/img/arch/riseofthetyrant2007.jpg"
+    },
+    {
+      "bandId": "7",
+      "title": "The Root of All Evil", 
+      "year": "2009",
+      "img": "/img/arch/therootofallevil2009.jpg"
+    },
+    {
+      "bandId": "7",
+      "title": "Khaos Legions", 
+      "year": "2011",
+      "img": "/img/arch/khaoslegions2011.jpg"
+    },
+    {
+      "bandId": "7",
+      "title": "War Eternal", 
+      "year": "2014",
+      "img": "/img/arch/wareternal2014.jpg"
+    },
+    {
+      "bandId": "7",
+      "title": "Will To Power", 
+      "year": "2017",
+      "img": "/img/arch/willtopower2017.jpg"
+    },
+
+    {
+      "bandId": "8",
+      "title": "Stand Up And Scream", 
+      "year": "2009",
+      "img": "/img/askingalexandria/standupandscream2009.jpg"
+    },
+    {
+      "bandId": "8",
+      "title": "Asking Alexandria", 
+      "year": "2017",
+      "img": "/img/askingalexandria/askingalexandria2017.jpg"
+    },
+
+    {
+      "bandId": "9",
+      "title": "Constellations", 
+      "year": "2009",
+      "img": "/img/augustburnsred/constellations2009.jpg"
+    },
+    {
+      "bandId": "9",
+      "title": "Found In Far Away Places", 
+      "year": "2015",
+      "img": "/img/augustburnsred/foundinfarawayplaces.jpg"
+    },
+    {
+      "bandId": "9",
+      "title": "Guardians", 
+      "year": "2020",
+      "img": "/img/augustburnsred/guardians.jpg"
+    },
+
+    {
+      "bandId": "10",
+      "title": "City of Evil", 
+      "year": "2005",
+      "img": "/img/avengedsevenfold/2005cityofevil.jpg"
+    },
+    {
+      "bandId": "10",
+      "title": "Avenged Sevenfold", 
+      "year": "2007",
+      "img": "/img/avengedsevenfold/2007avengedsevenfold.jpg"
+    },
+    {
+      "bandId": "10",
+      "title": "Nightmare", 
+      "year": "2010",
+      "img": "/img/avengedsevenfold/2010nightmare.jpg"
+    },
+    {
+      "bandId": "10",
+      "title": "The Stage", 
+      "year": "2016",
+      "img": "/img/avengedsevenfold/2016thestage.jpg"
+    },
+
+    {
+      "bandId": "11",
+      "title": "Black Sabbath", 
+      "year": "1970",
+      "img": "/img/blacksabbath/blacksabbath1970.jpg"
+    },
+    {
+      "bandId": "11",
+      "title": "Paranoid", 
+      "year": "1970",
+      "img": "/img/blacksabbath/paranoid1970.jpg"
+    },
+    {
+      "bandId": "11",
+      "title": "Never Say Die", 
+      "year": "1978",
+      "img": "/img/blacksabbath/neversaydie.jpg"
+    },
+    {
+      "bandId": "11",
+      "title": "Heaven and Hell", 
+      "year": "1980",
+      "img": "/img/blacksabbath/heavenandhell1980.jpg"
+    },
+    {
+      "bandId": "11",
+      "title": "Born Again", 
+      "year": "1983",
+      "img": "/img/blacksabbath/bornagain.jpg"
+    },
+
+    {
+      "bandId": "12",
+      "title": "The Poison", 
+      "year": "2005",
+      "img": "/img/bullet/thepoison.jpg"
+    },
+    {
+      "bandId": "12",
+      "title": "Venom", 
+      "year": "2005",
+      "img": "/img/bullet/venom.jpg"
+    },
+    {
+      "bandId": "12",
+      "title": "Scream Aim Fire", 
+      "year": "2008",
+      "img": "/img/bullet/screamaimfire.jpg"
+    },
+    {
+      "bandId": "12",
+      "title": "Fever", 
+      "year": "2010",
+      "img": "/img/bullet/fever2010.jpg"
+    },
+    {
+      "bandId": "12",
+      "title": "Temper Temper", 
+      "year": "2013",
+      "img": "/img/bullet/tempertemper.jpg"
+    },
+    {
+      "bandId": "12",
+      "title": "Gravity", 
+      "year": "2018",
+      "img": "/img/bullet/gravity.jpg"
+    },
+
+    {
+      "bandId": "13",
+      "title": "Something Wild", 
+      "year": "1997",
+      "img": "/img/childrenofbodom/1997somethingwild.jpg"
+    },
+    {
+      "bandId": "13",
+      "title": "Hate Breeder", 
+      "year": "1999",
+      "img": "/img/childrenofbodom/1999hatebreeder.jpg"
+    },
+    {
+      "bandId": "13",
+      "title": "Follow the Reaper", 
+      "year": "2000",
+      "img": "/img/childrenofbodom/2000followthereaper.jpg"
+    },
+    {
+      "bandId": "13",
+      "title": "Hate Crew Death Roll", 
+      "year": "2003",
+      "img": "/img/childrenofbodom/2003hatecrewdeathroll.jpg"
+    },
+    {
+      "bandId": "13",
+      "title": "Blood Drunk", 
+      "year": "2008",
+      "img": "/img/childrenofbodom/2008blooddrunk.jpg"
+    },
+    {
+      "bandId": "13",
+      "title": "Halo of Blood", 
+      "year": "2013",
+      "img": "/img/childrenofbodom/2013haloofblood.jpg"
+    },
+    {
+      "bandId": "13",
+      "title": "I Worship Chaos", 
+      "year": "2015",
+      "img": "/img/childrenofbodom/2015iworshipchaos.jpg"
+    },
+    {
+      "bandId": "13",
+      "title": "Hexed", 
+      "year": "2019",
+      "img": "/img/childrenofbodom/2019hexed.jpg"
+    },
+
+    
+    {
+      "bandId": "14",
+      "title": "Parachutes", 
+      "year": "2000",
+      "img": "/img/coldplay/2000parachutes.jpeg"
+    },
+    {
+      "bandId": "14",
+      "title": "A Rush of Blood the to Head", 
+      "year": "2002",
+      "img": "/img/coldplay/2002arushofbloodtothehead.jpg"
+    },
+    {
+      "bandId": "14",
+      "title": "XY", 
+      "year": "2005",
+      "img": "/img/coldplay/2005xy.jpg"
+    },
+    {
+      "bandId": "14",
+      "title": "Viva la Vida", 
+      "year": "2008",
+      "img": "/img/coldplay/2008vivalavida.jpg"
+    },
+    {
+      "bandId": "14",
+      "title": "Ghost Stories", 
+      "year": "2014",
+      "img": "/img/coldplay/2014ghoststories.jpg"
+    },
+
+    {
+      "bandId": "15",
+      "title": "The Principle of Evil Made Flesh", 
+      "year": "1994",
+      "img": "/img/cradleoffilth/theprincipleofevilmadeflesh1994.jpg"
+    },
+    {
+      "bandId": "15",
+      "title": "Dusk and Herembrace", 
+      "year": "1996",
+      "img": "/img/cradleoffilth/duskandherembrace1996.jpg"
+    },
+    {
+      "bandId": "15",
+      "title": "Vempire", 
+      "year": "1996",
+      "img": "/img/cradleoffilth/vempireordarkfaerytalesinphallustein1996.jpg"
+    },
+    {
+      "bandId": "15",
+      "title": "Cruelty and the Beast", 
+      "year": "1998",
+      "img": "/img/cradleoffilth/crueltyandthebeats1998.jpg"
+    },
+    {
+      "bandId": "15",
+      "title": "From the Cradle to Enslave", 
+      "year": "1999",
+      "img": "/img/cradleoffilth/fromthecradletoenslave1999.jpg"
+    },
+    {
+      "bandId": "15",
+      "title": "Midian", 
+      "year": "2000",
+      "img": "/img/cradleoffilth/midian2000.jpg"
+    },
+    {
+      "bandId": "15",
+      "title": "Bitter Suites to Succubi", 
+      "year": "2001",
+      "img": "/img/cradleoffilth/bittersuitestosuccubi2001.jpg"
+    },
+    {
+      "bandId": "15",
+      "title": "Damnation and a Day", 
+      "year": "2003",
+      "img": "/img/cradleoffilth/damnationandaday2003.jpg"
+    },
+    {
+      "bandId": "15",
+      "title": "Nymphetamine", 
+      "year": "2004",
+      "img": "/img/cradleoffilth/nymphetamine2004.jpg"
+    },
+    {
+      "bandId": "15",
+      "title": "Harder, Darker, Faster", 
+      "year": "2006",
+      "img": "/img/cradleoffilth/harderdarkerfaster2006.jpg"
+    },
+    {
+      "bandId": "15",
+      "title": "Thornography", 
+      "year": "2006",
+      "img": "/img/cradleoffilth/thornography2006.jpg"
+    },
+    {
+      "bandId": "15",
+      "title": "God Speed on the Devils Thunder", 
+      "year": "2008",
+      "img": "/img/cradleoffilth/godspeedonthedevilsthunder2008.jpg"
+    },
+    {
+      "bandId": "15",
+      "title": "Darkly, Darkly Venus Venus", 
+      "year": "2010",
+      "img": "/img/cradleoffilth/darklydarklyvenusvenus2010.jpg"
+    },
+    {
+      "bandId": "15",
+      "title": "The Manticore and other Horrors", 
+      "year": "2012",
+      "img": "/img/cradleoffilth/themanticoreandotherhorrors2012.jpg"
+    },
+    {
+      "bandId": "15",
+      "title": "Hammer of the Witches", 
+      "year": "2015",
+      "img": "/img/cradleoffilth/hammerofthewitches2015.jpg"
+    },
+    {
+      "bandId": "15",
+      "title": "Cryptoriana the Seductiveness of Decay", 
+      "year": "2017",
+      "img": "/img/cradleoffilth/cryptorianatheseductivenessofdecay2017.jpg"
+    },
+    {
+      "bandId": "15",
+      "title": "Existenceis Futile", 
+      "year": "2021",
+      "img": "/img/cradleoffilth/existenceisfutile2021.jpg"
+    },
+
+    {
+      "bandId": "16",
+      "title": "For All Tid", 
+      "year": "1994",
+      "img": "/img/dimmuborgir/foralltid1994.jpg"
+    },
+    {
+      "bandId": "16",
+      "title": "Stormblast", 
+      "year": "1996",
+      "img": "/img/dimmuborgir/stormblast1996.jpg"
+    },
+    {
+      "bandId": "16",
+      "title": "Enthrone Darkness Triumphant", 
+      "year": "1997",
+      "img": "/img/dimmuborgir/enthronedarknesstriumphant1997.jpg"
+    },
+    {
+      "bandId": "16",
+      "title": "Godless Savage Garden", 
+      "year": "1998",
+      "img": "/img/dimmuborgir/godlesssavagegarden1998.jpg"
+    },
+    {
+      "bandId": "16",
+      "title": "Spiritual Black Dimensions", 
+      "year": "1999",
+      "img": "/img/dimmuborgir/spiritualblackdimensions1999.jpg"
+    },
+    {
+      "bandId": "16",
+      "title": "Puritanical Euphoric Misanthropia", 
+      "year": "2001",
+      "img": "/img/dimmuborgir/puritanicaleuphoricmisanthropia2001.jpg"
+    },
+    {
+      "bandId": "16",
+      "title": "Death Cult Armageddon", 
+      "year": "2003",
+      "img": "/img/dimmuborgir/deathcultarmageddon2003.jpg"
+    },
+    {
+      "bandId": "16",
+      "title": "Insorte Diaboli", 
+      "year": "2007",
+      "img": "/img/dimmuborgir/insortediaboli2007.jpg"
+    },
+    {
+      "bandId": "16",
+      "title": "Abrahadabra", 
+      "year": "2010",
+      "img": "/img/dimmuborgir/abrahadabra2010.jpg"
+    },
+    {
+      "bandId": "16",
+      "title": "Eonian", 
+      "year": "2018",
+      "img": "/img/dimmuborgir/eonian2018.jpg"
+    },
+
+    {
+      "bandId": "17",
+      "title": "Valley of the Damned", 
+      "year": "2003",
+      "img": "/img/dragonforce/valleyofthedamned2003.jpg"
+    },
+    {
+      "bandId": "17",
+      "title": "Sonic Firestorm", 
+      "year": "2004",
+      "img": "/img/dragonforce/sonicfirestorm2004.jpg"
+    },
+    {
+      "bandId": "17",
+      "title": "Inhuman Rampage", 
+      "year": "2005",
+      "img": "/img/dragonforce/inhumanrampage2005.png"
+    },
+    {
+      "bandId": "17",
+      "title": "Ultra Beatdown", 
+      "year": "2008",
+      "img": "/img/dragonforce/ultrabeatdown2008.jpg"
+    },
+    {
+      "bandId": "17",
+      "title": "The Power Within", 
+      "year": "2012",
+      "img": "/img/dragonforce/thepowerwithin2012.jpg"
+    },
+    {
+      "bandId": "17",
+      "title": "Maximum Overload", 
+      "year": "2014",
+      "img": "/img/dragonforce/maximumoverload2014.jpg"
+    },
+    {
+      "bandId": "17",
+      "title": "Reaching Into Infinity", 
+      "year": "2017",
+      "img": "/img/dragonforce/reachingintoinfinity2017.jpg"
+    },
+    {
+      "bandId": "17",
+      "title": "Extreme Power Metal", 
+      "year": "2019",
+      "img": "/img/dragonforce/extremepowermetal2019.jpg"
+    },
+
+    {
+      "bandId": "18",
+      "title": "Images And Words", 
+      "year": "1992",
+      "img": "/img/dreamtheater/imagesandwords1992.jpg"
+    },
+    {
+      "bandId": "18",
+      "title": "Awake", 
+      "year": "1994",
+      "img": "/img/dreamtheater/awake1994.jpg"
+    },
+    {
+      "bandId": "18",
+      "title": "A Change of Seasons", 
+      "year": "1995",
+      "img": "/img/dreamtheater/achangeofseasons1995.jpg"
+    },
+    {
+      "bandId": "18",
+      "title": "Falling Into Infinity", 
+      "year": "1997",
+      "img": "/img/dreamtheater/fallingintoinfinity1997.jpg"
+    },
+    {
+      "bandId": "18",
+      "title": "Metropolis Part 2", 
+      "year": "1999",
+      "img": "/img/dreamtheater/metropolispart21999.jpg"
+    },
+    {
+      "bandId": "18",
+      "title": "Six Degrees of Inner Turbulence", 
+      "year": "2002",
+      "img": "/img/dreamtheater/sixdegreesofinnerturbulence2002.jpg"
+    },
+    {
+      "bandId": "18",
+      "title": "Train of Thought", 
+      "year": "2003",
+      "img": "/img/dreamtheater/trainofthought2003.jpg"
+    },
+    {
+      "bandId": "18",
+      "title": "Octavarium", 
+      "year": "2005",
+      "img": "/img/dreamtheater/octavarium2005.jpg"
+    },
+    {
+      "bandId": "18",
+      "title": "System Chaos", 
+      "year": "2007",
+      "img": "/img/dreamtheater/systemchaos2007.jpg"
+    },
+    {
+      "bandId": "18",
+      "title": "The Astonishing", 
+      "year": "2007",
+      "img": "/img/dreamtheater/theastonishing2016.jpg"
+    },
+    {
+      "bandId": "18",
+      "title": "Black Clouds & Silver Linings", 
+      "year": "2009",
+      "img": "/img/dreamtheater/blackcloudsysilverlinings2009.jpg"
+    },
+    {
+      "bandId": "18",
+      "title": "A Dramatic Turn of Events", 
+      "year": "2011",
+      "img": "/img/dreamtheater/adramaticturnofevents2011.jpg"
+    },
+    {
+      "bandId": "18",
+      "title": "Distance Overtime", 
+      "year": "2019",
+      "img": "/img/dreamtheater/distanceovertime2019.jpg"
+    },
+    {
+      "bandId": "18",
+      "title": "A View From the to Pof the World", 
+      "year": "2021",
+      "img": "/img/dreamtheater/aviewfromthetopoftheworld2021.jpg"
+    },
+
+    {
+      "bandId": "19",
+      "title": "Consign to Oblivion", 
+      "year": "2005",
+      "img": "/img/epica/consigntooblivion.jpg"
+    },
+    {
+      "bandId": "19",
+      "title": "The Divine Conspiracy", 
+      "year": "2007",
+      "img": "/img/epica/thedivineconspiracy.jpg"
+    },
+    {
+      "bandId": "19",
+      "title": "Desing Your Universe", 
+      "year": "2009",
+      "img": "/img/epica/desingyouruniverse.jpg"
+    },
+    {
+      "bandId": "19",
+      "title": "Requiem for the Indifferent", 
+      "year": "2012",
+      "img": "/img/epica/requiemfortheindifferent.jpg"
+    },
+    {
+      "bandId": "19",
+      "title": "The Phantom Agony", 
+      "year": "2013",
+      "img": "/img/epica/thephantomagony.jpg"
+    },
+    {
+      "bandId": "19",
+      "title": "The Holographic Principle", 
+      "year": "2016",
+      "img": "/img/epica/theholographicprinciple.jpg"
+    },
+    {
+      "bandId": "19",
+      "title": "The Solace System", 
+      "year": "2017",
+      "img": "/img/epica/thesolacesystem.jpg"
+    },
+    {
+      "bandId": "19",
+      "title": "Omega", 
+      "year": "2021",
+      "img": "/img/epica/omega.jpg"
+    },
+
+    {
+      "bandId": "20",
+      "title": "Origin", 
+      "year": "2000",
+      "img": "/img/evanescence/origin2000.jpg"
+    },
+    {
+      "bandId": "20",
+      "title": "Fallen", 
+      "year": "2003",
+      "img": "/img/evanescence/fallen2003.jpg"
+    },
+    {
+      "bandId": "20",
+      "title": "Anywhere But Home", 
+      "year": "2004",
+      "img": "/img/evanescence/anywherebuthome2004.jpg"
+    },
+    {
+      "bandId": "20",
+      "title": "The Open Door", 
+      "year": "2006",
+      "img": "/img/evanescence/theopendoor2006.jpg"
+    },
+    {
+      "bandId": "20",
+      "title": "Lost Whispers", 
+      "year": "2016",
+      "img": "/img/evanescence/lostwhispers2016.jpg"
+    },
+    {
+      "bandId": "20",
+      "title": "Synthesis", 
+      "year": "2017",
+      "img": "/img/evanescence/synthesis2017.jpg"
+    },
+    {
+      "bandId": "20",
+      "title": "The Bitter Truth", 
+      "year": "2021",
+      "img": "/img/evanescence/thebittertruth2021.jpg"
+    },
+
+    {
+      "bandId": "21",
+      "title": "The Flag of Punishment", 
+      "year": "2003",
+      "img": "/img/galneryus/theflagofpunishment2003.jpg"
+    },
+    {
+      "bandId": "21",
+      "title": "Advance to the fall", 
+      "year": "2005",
+      "img": "/img/galneryus/advancetothefall2005.jpg"
+    },
+    {
+      "bandId": "21",
+      "title": "Beyond the end of Despair", 
+      "year": "2006",
+      "img": "/img/galneryus/beyondtheendofdespair2006.jpg"
+    },
+    {
+      "bandId": "21",
+      "title": "Voices From the Past", 
+      "year": "2007",
+      "img": "/img/galneryus/voicesfromthepast2007.jpg"
+    },
+    {
+      "bandId": "21",
+      "title": "One for All", 
+      "year": "2007",
+      "img": "/img/galneryus/oneforall2007.jpg"
+    },
+    {
+      "bandId": "21",
+      "title": "Reincarnation", 
+      "year": "2008",
+      "img": "/img/galneryus/reincarnation2008.jpg"
+    },
+    {
+      "bandId": "21",
+      "title": "Voices From the Past II", 
+      "year": "2008",
+      "img": "/img/galneryus/voicesfromthepastII2008.jpg"
+    },
+    {
+      "bandId": "21",
+      "title": "Resurrection", 
+      "year": "2010",
+      "img": "/img/galneryus/resurrection2010.jpg"
+    },
+    {
+      "bandId": "21",
+      "title": "Voices From the Past III", 
+      "year": "2010",
+      "img": "/img/galneryus/voicesfromthepastIII2010.jpg"
+    },
+    {
+      "bandId": "21",
+      "title": "Phoenix Rising", 
+      "year": "2011",
+      "img": "/img/galneryus/phoenixrising2011.png"
+    },
+    {
+      "bandId": "21",
+      "title": "Kizuna", 
+      "year": "2012",
+      "img": "/img/galneryus/kizuna2012.jpg"
+    },
+    {
+      "bandId": "21",
+      "title": "Angel Salvation", 
+      "year": "2012",
+      "img": "/img/galneryus/angelsalvation2012.jpg"
+    },
+    {
+      "bandId": "21",
+      "title": "Iron Hearted Flag Vol 2", 
+      "year": "2013",
+      "img": "/img/galneryus/ironheartedflagvol22013.jpg"
+    },
+    {
+      "bandId": "21",
+      "title": "Iron Hearted Flag Vol 1", 
+      "year": "2013",
+      "img": "/img/galneryus/ironheartedflagvol12013.jpg"
+    },
+    {
+      "bandId": "21",
+      "title": "Veltegyus", 
+      "year": "2014",
+      "img": "/img/galneryus/veltegyus2014.jpg"
+    },
+    {
+      "bandId": "21",
+      "title": "Under the Force of Courage", 
+      "year": "2015",
+      "img": "/img/galneryus/undertheforceofcourage2015.jpg"
+    },
+    {
+      "bandId": "21",
+      "title": "Ultimate Sacrifice", 
+      "year": "2017",
+      "img": "/img/galneryus/ultimatesacrifice2017.jpg"
+    },
+    {
+      "bandId": "21",
+      "title": "Into the Purgatory", 
+      "year": "2019",
+      "img": "/img/galneryus/intothepurgatory2019.jpg"
+    },
+    {
+      "bandId": "21",
+      "title": "Vorvados", 
+      "year": "2019",
+      "img": "/img/galneryus/vorvados2019.jpg"
+    },
+    {
+      "bandId": "21",
+      "title": "Union Gives Strength", 
+      "year": "2021",
+      "img": "/img/galneryus/2021uniongivesstrength.jpg"
+    },
+
+    {
+      "bandId": "22",
+      "title": "Iron Maiden", 
+      "year": "1980",
+      "img": "/img/ironmaiden/ironmaiden1980.jpg"
+    },
+    {
+      "bandId": "22",
+      "title": "Killers", 
+      "year": "1981",
+      "img": "/img/ironmaiden/killers1981.jpg"
+    },
+    {
+      "bandId": "22",
+      "title": "The Number of the Beast", 
+      "year": "1982",
+      "img": "/img/ironmaiden/thenumberofthebeast1982.jpg"
+    },
+    {
+      "bandId": "22",
+      "title": "Piece of Mind", 
+      "year": "1983",
+      "img": "/img/ironmaiden/pieceofmind1983.jpg"
+    },
+    {
+      "bandId": "22",
+      "title": "Powerslave", 
+      "year": "1984",
+      "img": "/img/ironmaiden/powerslave1984.jpg"
+    },
+    {
+      "bandId": "22",
+      "title": "Somewhere in Time", 
+      "year": "1986",
+      "img": "/img/ironmaiden/somewhereintime1986.jpg"
+    },
+    {
+      "bandId": "22",
+      "title": "Seventh Son of a Seventh Son", 
+      "year": "1988",
+      "img": "/img/ironmaiden/seventhsonofaseventhson1988.jpg"
+    },
+    {
+      "bandId": "22",
+      "title": "No Player for the Dying", 
+      "year": "1990",
+      "img": "/img/ironmaiden/noplayerforthedying1990.jpg"
+    },
+    {
+      "bandId": "22",
+      "title": "Fear of the Dark", 
+      "year": "1992",
+      "img": "/img/ironmaiden/fearofthedark1992.jpg"
+    },
+    {
+      "bandId": "22",
+      "title": "The X Factor", 
+      "year": "1995",
+      "img": "/img/ironmaiden/thexfactor1995.jpg"
+    },
+    {
+      "bandId": "22",
+      "title": "Virtual X", 
+      "year": "1998",
+      "img": "/img/ironmaiden/virtualx1998.jpg"
+    },
+    {
+      "bandId": "22",
+      "title": "Brave New World", 
+      "year": "2000",
+      "img": "/img/ironmaiden/bravenewworld2000.jpg"
+    },
+    {
+      "bandId": "22",
+      "title": "Dance of Death", 
+      "year": "2003",
+      "img": "/img/ironmaiden/danceofdeath2003.jpg"
+    },
+    {
+      "bandId": "22",
+      "title": "A Matter of Life and Death", 
+      "year": "2006",
+      "img": "/img/ironmaiden/amatteroflifeanddeath2006.jpg"
+    },
+    {
+      "bandId": "22",
+      "title": "The Book of Souls", 
+      "year": "2015",
+      "img": "/img/ironmaiden/thebookofsouls2015.jpg"
+    },
+    {
+      "bandId": "22",
+      "title": "The Final Frontier", 
+      "year": "2010",
+      "img": "/img/ironmaiden/thefinalfrontier2010.jpg"
+    },
+    {
+      "bandId": "22",
+      "title": "Senjutsu", 
+      "year": "2021",
+      "img": "/img/ironmaiden/senjutsu2021.jpg"
+    },
+
+    {
+      "bandId": "23",
+      "title": "Rock a Rolla", 
+      "year": "1974",
+      "img": "/img/judaspriest/1974rockarolla.jpg"
+    },
+    {
+      "bandId": "23",
+      "title": "Sad Wings of Destiny", 
+      "year": "1976",
+      "img": "/img/judaspriest/1976sadwingsofdestiny.jpg"
+    },
+    {
+      "bandId": "23",
+      "title": "Sin After Sin", 
+      "year": "1977",
+      "img": "/img/judaspriest/1977sinaftersin.jpg"
+    },
+    {
+      "bandId": "23",
+      "title": "Killing Machine", 
+      "year": "1978",
+      "img": "/img/judaspriest/1978killingmachine.jpg"
+    },
+    {
+      "bandId": "23",
+      "title": "Stained Class", 
+      "year": "1978",
+      "img": "/img/judaspriest/1978stainedclass.jpg"
+    },
+    {
+      "bandId": "23",
+      "title": "British Steel", 
+      "year": "1980",
+      "img": "/img/judaspriest/1980britishsteel.jpg"
+    },
+    {
+      "bandId": "23",
+      "title": "Point of Entry", 
+      "year": "1981",
+      "img": "/img/judaspriest/1981pointofentry.jpg"
+    },
+    {
+      "bandId": "23",
+      "title": "Screaming for Vengeance", 
+      "year": "1982",
+      "img": "/img/judaspriest/1982screamingforvengeance.jpg"
+    },
+    {
+      "bandId": "23",
+      "title": "Defender of the Faith", 
+      "year": "1984",
+      "img": "/img/judaspriest/1984defendersofthefaith.jpg"
+    },
+    {
+      "bandId": "23",
+      "title": "Turbo", 
+      "year": "1986",
+      "img": "/img/judaspriest/1986turbo.jpg"
+    },
+    {
+      "bandId": "23",
+      "title": "Ram It Down", 
+      "year": "1988",
+      "img": "/img/judaspriest/1988ramitdown.jpg"
+    },
+    {
+      "bandId": "23",
+      "title": "Painkiller", 
+      "year": "1990",
+      "img": "/img/judaspriest/1990painkiller.jpg"
+    },
+    {
+      "bandId": "23",
+      "title": "Angel of Retribution", 
+      "year": "2005",
+      "img": "/img/judaspriest/2005angelofretribution.jpg"
+    },
+    {
+      "bandId": "23",
+      "title": "Nostradamus", 
+      "year": "2008",
+      "img": "/img/judaspriest/2008nostradamus.jpg"
+    },
+    {
+      "bandId": "23",
+      "title": "Fire Power", 
+      "year": "2018",
+      "img": "/img/judaspriest/2018firepower.jpg"
+    },
+
+    {
+      "bandId": "24",
+      "title": "Hottert Han Hell", 
+      "year": "1974",
+      "img": "/img/kiss/1974hotterthanhell.jpg"
+    },
+    {
+      "bandId": "24",
+      "title": "Dressed to Kill", 
+      "year": "1975",
+      "img": "/img/kiss/1975dressedtokill.jpg"
+    },
+    {
+      "bandId": "24",
+      "title": "Destroyer", 
+      "year": "1976",
+      "img": "/img/kiss/1976destroyer.jpg"
+    },
+    {
+      "bandId": "24",
+      "title": "Love Gun", 
+      "year": "1977",
+      "img": "/img/kiss/1977lovegun.jpg"
+    },
+    {
+      "bandId": "24",
+      "title": "Dynasty", 
+      "year": "1979",
+      "img": "/img/kiss/1979dynasty.jpg"
+    },
+    {
+      "bandId": "24",
+      "title": "Unmasked", 
+      "year": "1980",
+      "img": "/img/kiss/1980unmasked.jpg"
+    },
+    {
+      "bandId": "24",
+      "title": "Creatures of the Night", 
+      "year": "1982",
+      "img": "/img/kiss/1982creaturesofthenight.jpg"
+    },
+    {
+      "bandId": "24",
+      "title": "Crazy Nights",
+      "year": "1987",
+      "img": "/img/kiss/1987crazynights.jpg"
+    },
+    {
+      "bandId": "24",
+      "title": "Psychocircus", 
+      "year": "1998",
+      "img": "/img/kiss/1998psychocircus.jpg"
+    },
+
+    {
+      "bandId": "25",
+      "title": "Lovelorn", 
+      "year": "2004",
+      "img": "/img/leaveseyes/lovelorn2004.jpg"
+    },
+    {
+      "bandId": "25",
+      "title": "Vinland Saga", 
+      "year": "2005",
+      "img": "/img/leaveseyes/vinlandsaga2005.jpg"
+    },
+    {
+      "bandId": "25",
+      "title": "Njord", 
+      "year": "2009",
+      "img": "/img/leaveseyes/njord2009.jpg"
+    },
+    {
+      "bandId": "25",
+      "title": "Meredead", 
+      "year": "2011",
+      "img": "/img/leaveseyes/meredead2011.jpg"
+    },
+    {
+      "bandId": "25",
+      "title": "Symphonies of the Night", 
+      "year": "2013",
+      "img": "/img/leaveseyes/symphoniesofthenight2013.jpg"
+    },
+    {
+      "bandId": "25",
+      "title": "King of Kings", 
+      "year": "2015",
+      "img": "/img/leaveseyes/kingofkings2015.jpg"
+    },
+    {
+      "bandId": "25",
+      "title": "Sign of the Dragon Head", 
+      "year": "2018",
+      "img": "/img/leaveseyes/signofthedragonhead2018.jpg"
+    },
+    {
+      "bandId": "25",
+      "title": "The Last Viking", 
+      "year": "2020",
+      "img": "/img/leaveseyes/thelastviking2020.jpg"
+    },
+
+    {
+      "bandId": "26",
+      "title": "Led Zeppelin", 
+      "year": "1969",
+      "img": "/img/ledzeppelin/1969ledzeppelin.jpg"
+    },
+    {
+      "bandId": "26",
+      "title": "Led Zeppelin II", 
+      "year": "1969",
+      "img": "/img/ledzeppelin/1969ledzeppelinII.jpg"
+    },
+    {
+      "bandId": "26",
+      "title": "Led Zeppelin III", 
+      "year": "1970",
+      "img": "/img/ledzeppelin/1970ledzeppelinIII.jpg"
+    },
+    {
+      "bandId": "26",
+      "title": "Led Zeppelin IV", 
+      "year": "1971",
+      "img": "/img/ledzeppelin/1971ledzeppelinIV.jpg"
+    },
+    {
+      "bandId": "26",
+      "title": "Physical Graffiti", 
+      "year": "1975",
+      "img": "/img/ledzeppelin/1975physicalgraffiti.jpg"
+    },
+    {
+      "bandId": "26",
+      "title": "Presence", 
+      "year": "1976",
+      "img": "/img/ledzeppelin/1976presence.jpg"
+    },
+    {
+      "bandId": "26",
+      "title": "Inthrough the out Door", 
+      "year": "1979",
+      "img": "/img/ledzeppelin/1979inthroughtheoutdoor.jpg"
+    },
+
+    {
+      "bandId": "27",
+      "title": "Hybrid Theory", 
+      "year": "2000",
+      "img": "/img/linkinpark/hybridtheory2000.jpg"
+    },
+    {
+      "bandId": "27",
+      "title": "Meteora", 
+      "year": "2003",
+      "img": "/img/linkinpark/meteora2003.jpg"
+    },
+    {
+      "bandId": "27",
+      "title": "Minutes to Midnight", 
+      "year": "2007",
+      "img": "/img/linkinpark/minutestomidnight2007.jpg"
+    },
+    {
+      "bandId": "27",
+      "title": "A Thousand Suns", 
+      "year": "2010",
+      "img": "/img/linkinpark/athousandsuns2010.jpg"
+    },
+    {
+      "bandId": "27",
+      "title": "Living Things", 
+      "year": "2012",
+      "img": "/img/linkinpark/livingthings2012.jpg"
+    },
+    {
+      "bandId": "27",
+      "title": "The Hunting Party", 
+      "year": "2014",
+      "img": "/img/linkinpark/thehuntingparty2014.jpg"
+    },
+
+    {
+      "bandId": "28",
+      "title": "Burn My Eyes", 
+      "year": "1994",
+      "img": "/img/machinehead/burnmyeyes1994.jpg"
+    },
+    {
+      "bandId": "28",
+      "title": "The More Things Change", 
+      "year": "1997",
+      "img": "/img/machinehead/themorethingschange1997.jpg"
+    },
+    {
+      "bandId": "28",
+      "title": "The Burning Red", 
+      "year": "1999",
+      "img": "/img/machinehead/theburningred1999.jpg"
+    },
+    {
+      "bandId": "28",
+      "title": "Super Charger", 
+      "year": "2001",
+      "img": "/img/machinehead/supercharger2001.jpg"
+    },
+    {
+      "bandId": "28",
+      "title": "Through thes Shes of Empires", 
+      "year": "2003",
+      "img": "/img/machinehead/throughthesshesofempires2003.jpg"
+    },
+    {
+      "bandId": "28",
+      "title": "The Blackening", 
+      "year": "2007",
+      "img": "/img/machinehead/theblackening2007.jpg"
+    },
+    {
+      "bandId": "28",
+      "title": "Unto the Locust", 
+      "year": "2011",
+      "img": "/img/machinehead/untothelocustspecialedition2011.jpg"
+    },
+
+    {
+      "bandId": "29",
+      "title": "Jesus de Chamberi", 
+      "year": "1996",
+      "img": "/img/magodeoz/jesusdechamberi1996.jpg"
+    },
+    {
+      "bandId": "29",
+      "title": "La Leyenda de la Mancha", 
+      "year": "1998",
+      "img": "/img/magodeoz/laleyendadelamancha1998.jpg"
+    },
+    {
+      "bandId": "29",
+      "title": "Finisterra", 
+      "year": "2000",
+      "img": "/img/magodeoz/finisterra2000.jpg"
+    },
+    {
+      "bandId": "29",
+      "title": "Gaia", 
+      "year": "2003",
+      "img": "/img/magodeoz/gaia2003.jpg"
+    },
+    {
+      "bandId": "29",
+      "title": "Gaia 2: La Voz Dormida", 
+      "year": "2005",
+      "img": "/img/magodeoz/gaia2lavozdormida2005.jpg"
+    },
+    {
+      "bandId": "29",
+      "title": "La Ciudad de los Árboles", 
+      "year": "2007",
+      "img": "/img/magodeoz/laciudaddelosarboles2007.jpg"
+    },
+    {
+      "bandId": "29",
+      "title": "Gaia 3: Atlantia", 
+      "year": "2010",
+      "img": "/img/magodeoz/gaia3atlantia2010.jpg"
+    },
+    {
+      "bandId": "29",
+      "title": "Hechizos, Pocimas y Brujeria", 
+      "year": "2012",
+      "img": "/img/magodeoz/hechizospocimasybrujeria2012.jpg"
+    },
+    {
+      "bandId": "29",
+      "title": "Ilusiana", 
+      "year": "2014",
+      "img": "/img/magodeoz/ilusiana2014.jpg"
+    },
+    {
+      "bandId": "29",
+      "title": "Ira Dei", 
+      "year": "2019",
+      "img": "/img/magodeoz/iradei2019.jpg"
+    },
+    {
+      "bandId": "29",
+      "title": "Bandera Negra", 
+      "year": "2021",
+      "img": "/img/magodeoz/banderanegra2021.jpg"
+    },
+
+    {
+      "bandId": "30",
+      "title": "Killing is my Business and Business is Good", 
+      "year": "1985",
+      "img": "/img/megadeth/killingismybusinessandbusinessisgood1985.jpg"
+    },
+    {
+      "bandId": "30",
+      "title": "Peace Sell But Whos Buying", 
+      "year": "1986",
+      "img": "/img/megadeth/peacesellsbutwhosbuying1986.jpeg"
+    },
+    {
+      "bandId": "30",
+      "title": "So Far So Good So What", 
+      "year": "1988",
+      "img": "/img/megadeth/sofarsogoodsowhat1988.jpg"
+    },
+    {
+      "bandId": "30",
+      "title": "Rust in Peace", 
+      "year": "1990",
+      "img": "/img/megadeth/rustinpeace1990.jpg"
+    },
+    {
+      "bandId": "30",
+      "title": "Countdown to Extinction", 
+      "year": "1992",
+      "img": "/img/megadeth/countdowntoextinction1992.jpg"
+    },
+    {
+      "bandId": "30",
+      "title": "Youthanasia", 
+      "year": "1994",
+      "img": "/img/megadeth/youthanasia1994.jpg"
+    },
+    {
+      "bandId": "30",
+      "title": "Risk", 
+      "year": "1999",
+      "img": "/img/megadeth/risk1999.jpg"
+    },
+    {
+      "bandId": "30",
+      "title": "The System has Failed", 
+      "year": "2004",
+      "img": "/img/megadeth/thesystemhasfailed2004.jpg"
+    },
+    {
+      "bandId": "30",
+      "title": "United Abominations", 
+      "year": "2007",
+      "img": "/img/megadeth/unitedabominations2007.jpg"
+    },
+    {
+      "bandId": "30",
+      "title": "End Game", 
+      "year": "2009",
+      "img": "/img/megadeth/endgame2009.jpg"
+    },
+    {
+      "bandId": "30",
+      "title": "Th1rt33n", 
+      "year": "2011",
+      "img": "/img/megadeth/thirteen2011.jpg"
+    },
+    {
+      "bandId": "30",
+      "title": "Super Collider", 
+      "year": "2013",
+      "img": "/img/megadeth/supercollider2013.jpg"
+    },
+    {
+      "bandId": "30",
+      "title": "Dystopia", 
+      "year": "2016",
+      "img": "/img/megadeth/dystopia2016.jpg"
+    },
+
+    {
+      "bandId": "31",
+      "title": "Kill ’Em All", 
+      "year": "1983",
+      "img": "/img/metallica/killemall1983.jpg"
+    },
+    {
+      "bandId": "31",
+      "title": "Ride the LIghthing", 
+      "year": "1984",
+      "img": "/img/metallica/ridethelightning1984.jpg"
+    },
+    {
+      "bandId": "31",
+      "title": "Master of Puppets", 
+      "year": "1986",
+      "img": "/img/metallica/masterofpuppets1986.jpg"
+    },
+    {
+      "bandId": "31",
+      "title": "Black", 
+      "year": "1991",
+      "img": "/img/metallica/black1991.jpg"
+    },
+    {
+      "bandId": "31",
+      "title": "Load", 
+      "year": "1996",
+      "img": "/img/metallica/load1996.jpeg"
+    },
+    {
+      "bandId": "31",
+      "title": "Reload", 
+      "year": "1997",
+      "img": "/img/metallica/reload1997.jpg"
+    },
+    {
+      "bandId": "31",
+      "title": "And Justice for All", 
+      "year": "1998",
+      "img": "/img/metallica/andjusticeforall1998.jpg"
+    },
+    {
+      "bandId": "31",
+      "title": "Garage Inc.", 
+      "year": "1998",
+      "img": "/img/metallica/garageinc1998.jpg"
+    },
+    {
+      "bandId": "31",
+      "title": "Stanger", 
+      "year": "2003",
+      "img": "/img/metallica/stanger2003.jpg"
+    },
+    {
+      "bandId": "31",
+      "title": "Death Magnetic", 
+      "year": "2008",
+      "img": "/img/metallica/deathmagnetic2008.jpg"
+    },
+    {
+      "bandId": "31",
+      "title": "Beyond Magnetic", 
+      "year": "2011",
+      "img": "/img/metallica/beyondmagnetic2011.jpg"
+    },
+    {
+      "bandId": "31",
+      "title": "Hardwired to Self Destruct", 
+      "year": "2016",
+      "img": "/img/metallica/hardwiredtoselfdestruct2016.jpg"
+    },
+
+    {
+      "bandId": "32",
+      "title": "Showbiz", 
+      "year": "1999",
+      "img": "/img/muse/1999showbiz.jpg"
+    },
+    {
+      "bandId": "32",
+      "title": "Origin of Symmetry", 
+      "year": "2001",
+      "img": "/img/muse/2001originofsymmetry.jpg"
+    },
+    {
+      "bandId": "32",
+      "title": "Absolution", 
+      "year": "2003",
+      "img": "/img/muse/2003absolution.jpg"
+    },
+    {
+      "bandId": "32",
+      "title": "Black Holes and Revelations", 
+      "year": "2006",
+      "img": "/img/muse/2006blackholesandrevelations.jpg"
+    },
+    {
+      "bandId": "32",
+      "title": "The Resistence", 
+      "year": "2009",
+      "img": "/img/muse/2009theresistance.jpg"
+    },
+    {
+      "bandId": "32",
+      "title": "The do 2nd Law", 
+      "year": "2012",
+      "img": "/img/muse/2012thedosndlaw.jpg"
+    },
+    {
+      "bandId": "32",
+      "title": "Drones", 
+      "year": "2015",
+      "img": "/img/muse/2015drones.jpg"
+    },
+    {
+      "bandId": "32",
+      "title": "Simulation Theory", 
+      "year": "2018",
+      "img": "/img/muse/2018simulationtheory.jpg"
+    },
+
+    {
+      "bandId": "33",
+      "title": "I Brought you My Bullets You Brought Me Your Love", 
+      "year": "2002",
+      "img": "/img/mychemicalromance/ibroughtyoumybulletsyoubroughtmeyourlove.jpg"
+    },{
+      "bandId": "33",
+      "title": "Three Cheers for Sweet Revenge", 
+      "year": "2004",
+      "img": "/img/mychemicalromance/threecheersforsweetrevenge.jpg"
+    },
+
+    {
+      "bandId": "33",
+      "title": "The Black Parade", 
+      "year": "2006",
+      "img": "/img/mychemicalromance/theblackparade.jpg"
+    },
+    {
+      "bandId": "33",
+      "title": "Danger Days", 
+      "year": "2010",
+      "img": "/img/mychemicalromance/dangerdays.jpg"
+    },
+
+    {
+      "bandId": "34",
+      "title": "Metal Magic", 
+      "year": "1983",
+      "img": "/img/pantera/metalmagic.jpg"
+    },
+    {
+      "bandId": "34",
+      "title": "Projects in the Jungle", 
+      "year": "1984",
+      "img": "/img/pantera/projectsinthejungle.jpg"
+    },
+    {
+      "bandId": "34",
+      "title": "I Am the Night", 
+      "year": "1985",
+      "img": "/img/pantera/iamthenight.jpg"
+    },
+    {
+      "bandId": "34",
+      "title": "Power Metal", 
+      "year": "1988",
+      "img": "/img/pantera/powermetal.jpg"
+    },
+    {
+      "bandId": "34",
+      "title": "Cowboys from Hell", 
+      "year": "1990",
+      "img": "/img/pantera/cowboysfromhell.jpg"
+    },
+    {
+      "bandId": "34",
+      "title": "Vulgar Display of Power", 
+      "year": "1992",
+      "img": "/img/pantera/vulgardisplayofpower.jpg"
+    },
+    {
+      "bandId": "34",
+      "title": "Far Beyond Driven", 
+      "year": "1994",
+      "img": "/img/pantera/farbeyonddriven.jpg"
+    },
+    {
+      "bandId": "34",
+      "title": "The Great Southern Trendkill", 
+      "year": "1996",
+      "img": "/img/pantera/thegreatsoutherntrendkill.jpg"
+    },
+    {
+      "bandId": "34",
+      "title": "Reinventing the Steel", 
+      "year": "2000",
+      "img": "/img/pantera/reinventingthesteel.jpg"
+    },
+
+    {
+      "bandId": "35",
+      "title": "The Dark Side of the Moon", 
+      "year": "1973",
+      "img": "/img/pinkfloyd/thedarksideofthemoon1973.jpg"
+    },
+    {
+      "bandId": "35",
+      "title": "Wish you were here", 
+      "year": "1975",
+      "img": "/img/pinkfloyd/wishyouwerehere1975.jpg"
+    },
+    {
+      "bandId": "35",
+      "title": "The Wall", 
+      "year": "1979",
+      "img": "/img/pinkfloyd/thewall1979.jpeg"
+    },
+    {
+      "bandId": "35",
+      "title": "The Final Cut", 
+      "year": "1983",
+      "img": "/img/pinkfloyd/thefinalcut1983.jpg"
+    },
+    {
+      "bandId": "35",
+      "title": "The Division Bell", 
+      "year": "1994",
+      "img": "/img/pinkfloyd/thedivisionbell1994.jpg"
+    },
+    {
+      "bandId": "35",
+      "title": "Animals", 
+      "year": "1997",
+      "img": "/img/pinkfloyd/animals1977.jpg"
+    },
+    {
+      "bandId": "35",
+      "title": "The Endless River", 
+      "year": "2014",
+      "img": "/img/pinkfloyd/theendlessriver2014.jpg"
+    },
+
+    {
+      "bandId": "36",
+      "title": "Herzeleid", 
+      "year": "1995",
+      "img": "/img/rammstein/herzeleid1995.jpg"
+    },
+    {
+      "bandId": "36",
+      "title": "Sehnsucht", 
+      "year": "1997",
+      "img": "/img/rammstein/sehnsucht1997.jpg"
+    },
+    {
+      "bandId": "36",
+      "title": "Mutter", 
+      "year": "2001",
+      "img": "/img/rammstein/mutter2001.jpg"
+    },
+    {
+      "bandId": "36",
+      "title": "Reise, Reise", 
+      "year": "2004",
+      "img": "/img/rammstein/reisereise2004.jpg"
+    },
+    {
+      "bandId": "36",
+      "title": "Rosenrot", 
+      "year": "2005",
+      "img": "/img/rammstein/rosenrot2005.jpg"
+    },
+    {
+      "bandId": "36",
+      "title": "Liebe ist Fur Alleda", 
+      "year": "2009",
+      "img": "/img/rammstein/liebeistfuralleda2009.jpg"
+    },
+    {
+      "bandId": "36",
+      "title": "Rammstein", 
+      "year": "2019",
+      "img": "/img/rammstein/rammstein2019.jpg"
+    },
+    {
+      "bandId": "36",
+      "title": "Zeit", 
+      "year": "2022",
+      "img": "/img/rammstein/zeit2022.jpg"
+    },
+
+    {
+      "bandId": "37",
+      "title": "Esoptron", 
+      "year": "1995",
+      "img": "/img/septicflesh/esoptron1995.jpg"
+    },
+    {
+      "bandId": "37",
+      "title": "Ophidian Whell", 
+      "year": "1997",
+      "img": "/img/septicflesh/ophidianwheel1997.jpg"
+    },
+    {
+      "bandId": "37",
+      "title": "A Fallen Temple", 
+      "year": "1998",
+      "img": "/img/septicflesh/afallentemple1998.jpg"
+    },
+    {
+      "bandId": "37",
+      "title": "Revolution DNA", 
+      "year": "1999",
+      "img": "/img/septicflesh/revolutiondna1999.jpg"
+    },
+    {
+      "bandId": "37",
+      "title": "Sumerian Daemons", 
+      "year": "2003",
+      "img": "/img/septicflesh/sumeriandaemons2003.jpg"
+    },
+    {
+      "bandId": "37",
+      "title": "Communion", 
+      "year": "2008",
+      "img": "/img/septicflesh/communion2008.jpg"
+    },
+    {
+      "bandId": "37",
+      "title": "Mystic Place of Dawn", 
+      "year": "2013",
+      "img": "/img/septicflesh/mysticplacesofdawn2013.jpg"
+    },
+    {
+      "bandId": "37",
+      "title": "The Great Mass", 
+      "year": "2014",
+      "img": "/img/septicflesh/thegreatmass2014.jpg"
+    },
+    {
+      "bandId": "37",
+      "title": "Titan", 
+      "year": "2014",
+      "img": "/img/septicflesh/titan2014.jpg"
+    },
+    {
+      "bandId": "37",
+      "title": "Codex Omega", 
+      "year": "2017",
+      "img": "/img/septicflesh/codexomega2017.jpg"
+    },
+    {
+      "bandId": "37",
+      "title": "Modern Primitive", 
+      "year": "2022",
+      "img": "/img/septicflesh/modernprimitive.jpg"
+    },
+
+    {
+      "bandId": "38",
+      "title": "At Sixes and Sevens", 
+      "year": "2002",
+      "img": "/img/sirenia/atsixesandsevens2002.jpg"
+    },
+    {
+      "bandId": "38",
+      "title": "A Nelixir for Existence", 
+      "year": "2004",
+      "img": "/img/sirenia/anelixirforexistence2004.jpg"
+    },
+    {
+      "bandId": "38",
+      "title": "Nine Destinies and a Down Fall", 
+      "year": "2007",
+      "img": "/img/sirenia/ninedestiniesandadownfall2007.jpg"
+    },
+    {
+      "bandId": "38",
+      "title": "The 13th Floor", 
+      "year": "2009",
+      "img": "/img/sirenia/the13thfloor2009.jpg"
+    },
+    {
+      "bandId": "38",
+      "title": "The Enigma of Life", 
+      "year": "2011",
+      "img": "/img/sirenia/theenigmaoflife2011.jpg"
+    },
+    {
+      "bandId": "38",
+      "title": "Perils of the Deep Blue", 
+      "year": "2013",
+      "img": "/img/sirenia/perilsofthedeepblue2013.jpg"
+    },
+    {
+      "bandId": "38",
+      "title": "The Seventh Life Path", 
+      "year": "2015",
+      "img": "/img/sirenia/theseventhlifepath2015.jpg"
+    },
+    {
+      "bandId": "38",
+      "title": "Dim Days of Dolor", 
+      "year": "2016",
+      "img": "/img/sirenia/dimdaysofdolor2016.jpg"
+    },
+    {
+      "bandId": "38",
+      "title": "Arcane Astral Aeons", 
+      "year": "2018",
+      "img": "/img/sirenia/arcaneastralaeons2018.jpg"
+    },
+    {
+      "bandId": "38",
+      "title": "Riddles Ruins & Revelations", 
+      "year": "2021",
+      "img": "/img/sirenia/riddlesruinsyrevelations2021.jpg"
+    },
+
+    {
+      "bandId": "39",
+      "title": "Dreamspace", 
+      "year": "1994",
+      "img": "/img/stratovarius/dreamspace.jpg"
+    },
+    {
+      "bandId": "39",
+      "title": "Episode", 
+      "year": "1996",
+      "img": "/img/stratovarius/episode.jpg"
+    },
+    {
+      "bandId": "39",
+      "title": "Destiny", 
+      "year": "1998",
+      "img": "/img/stratovarius/destiny.jpg"
+    },
+    {
+      "bandId": "39",
+      "title": "Infinite", 
+      "year": "2000",
+      "img": "/img/stratovarius/infinite.jpg"
+    },
+    {
+      "bandId": "39",
+      "title": "Elements", 
+      "year": "2003",
+      "img": "/img/stratovarius/elements.jpg"
+    },
+    {
+      "bandId": "39",
+      "title": "Polaris", 
+      "year": "2009",
+      "img": "/img/stratovarius/polaris.jpg"
+    },
+    {
+      "bandId": "39",
+      "title": "Elysium", 
+      "year": "2011",
+      "img": "/img/stratovarius/elysium.jpg"
+    },
+    {
+      "bandId": "39",
+      "title": "Nemesis", 
+      "year": "2013",
+      "img": "/img/stratovarius/nemesis.jpg"
+    },
+    {
+      "bandId": "39",
+      "title": "Eternal", 
+      "year": "2015",
+      "img": "/img/stratovarius/eternal.jpg"
+    },
+
+    {
+      "bandId": "40",
+      "title": "Help!", 
+      "year": "1965",
+      "img": "/img/thebeatles/1965help.jpg"
+    },
+    {
+      "bandId": "40",
+      "title": "Rubber Soul", 
+      "year": "1965",
+      "img": "/img/thebeatles/1965rubbersoul.jpeg"
+    },
+    {
+      "bandId": "40",
+      "title": "The Beatles", 
+      "year": "1968",
+      "img": "/img/thebeatles/1968thebeatles.jpg"
+    },
+    {
+      "bandId": "40",
+      "title": "Abbey Road", 
+      "year": "1969",
+      "img": "/img/thebeatles/1969abbeyroad.jpg"
+    },
+    {
+      "bandId": "40",
+      "title": "Let it Be", 
+      "year": "1970",
+      "img": "/img/thebeatles/1970letitbe.jpg"
+    },
+
+    {
+      "bandId": "41",
+      "title": "Playboys", 
+      "year": "1997",
+      "img": "/img/therasmus/1997playboys.jpg"
+    },
+    {
+      "bandId": "41",
+      "title": "Dead Letters", 
+      "year": "2003",
+      "img": "/img/therasmus/2003deadletters.jpg"
+    },
+    {
+      "bandId": "41",
+      "title": "Hide from the Sun", 
+      "year": "2005",
+      "img": "/img/therasmus/2005hidefromthesun.jpg"
+    },
+    {
+      "bandId": "41",
+      "title": "Black Roses", 
+      "year": "2008",
+      "img": "/img/therasmus/2008blackroses.jpg"
+    },
+    {
+      "bandId": "41",
+      "title": "Dark Matters", 
+      "year": "2017",
+      "img": "/img/therasmus/2017darkmatters.jpg"
+    },
+
+    {
+      "bandId": "42",
+      "title": "Medieval", 
+      "year": "1997",
+      "img": "/img/tierrasanta/medieval1997.jpg"
+    },
+    {
+      "bandId": "42",
+      "title": "Legendario", 
+      "year": "1999",
+      "img": "/img/tierrasanta/legendario1999.jpg"
+    },
+    {
+      "bandId": "42",
+      "title": "Tierras de Leyenda", 
+      "year": "2000",
+      "img": "/img/tierrasanta/tierrasdeleyenda2000.jpg"
+    },
+    {
+      "bandId": "42",
+      "title": "Sangre de Reyes", 
+      "year": "2001",
+      "img": "/img/tierrasanta/sangredereyes2001.jpg"
+    },
+    {
+      "bandId": "42",
+      "title": "Indomable", 
+      "year": "2003",
+      "img": "/img/tierrasanta/indomable2003.jpg"
+    },
+    {
+      "bandId": "42",
+      "title": "Las Mil y una Noches", 
+      "year": "2004",
+      "img": "/img/tierrasanta/lasmilyunanoches2004.jpg"
+    },
+    {
+      "bandId": "42",
+      "title": "Caminos de Fuego", 
+      "year": "2010",
+      "img": "/img/tierrasanta/caminosdefuego2010.jpg"
+    },
+    {
+      "bandId": "42",
+      "title": "Mi Nombres Sera Leyenda", 
+      "year": "2013",
+      "img": "/img/tierrasanta/minombreseraleyenda2013.jpg"
+    }
+  ]
+}

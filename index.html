@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Band Gallery</title>
+    <link href="./styles.css" rel="stylesheet">
+  </head>
+  <body>
+
+    <header>
+      <h1>Band Gallery</h1>
+    </header>
+
+    <div class="gallery" id="gallery"></div>
+
+    <script>
+      fetch('data/bands.json')
+        .then(response => response.json())
+        .then(data => {
+          const gallery = document.getElementById('gallery');
+
+          data.bands.forEach(band => {
+            const card = document.createElement('div');
+            card.classList.add('card');
+
+            card.innerHTML = `
+              <img src="${band.img}" alt="${band.title}">
+              <h2>${band.title}</h2>
+              <p>${band.description}</p>
+            `;
+
+            gallery.appendChild(card);
+          });
+        });
+    </script>
+  </body>
+</html>
