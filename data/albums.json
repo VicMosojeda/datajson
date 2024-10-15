@@ -4,367 +4,367 @@
       "bandId": "1",
       "title": "Back In Black ", 
       "year": "1980",
-      "img": "./assets/acdc/backinblack1980.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/acdc/backinblack1980.jpg"
     },
     {
       "bandId": "1",
       "title": "Dirty Deeds Done Dirt Cheap", 
       "year": "1976",
-      "img": "./assets/acdc/dirtydeedsdonedirtcheap1976.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/acdc/dirtydeedsdonedirtcheap1976.jpg"
     },
     {
       "bandId": "1",
       "title": "Fly On The Wall", 
       "year": "1985",
-      "img": "./assets/acdc/flyonthewall.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/acdc/flyonthewall.jpg"
     },
     {
       "bandId": "1",
       "title": "High Voltage", 
       "year": "1976",
-      "img": "./assets/acdc/highvoltage1976.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/acdc/highvoltage1976.jpg"
     },
     {
       "bandId": "1",
       "title": "Highway To Hell1", 
       "year": "1979",
-      "img": "./assets/acdc/highwaytohell1979.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/acdc/highwaytohell1979.jpg"
     },
     {
       "bandId": "1",
       "title": "Powerage", 
       "year": "1978",
-      "img": "./assets/acdc/powerage1978.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/acdc/powerage1978.jpg"
     },
     {
       "bandId": "1",
       "title": "Who Made Who", 
       "year": "1986",
-      "img": "./assets/acdc/whomadewho1986.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/acdc/whomadewho1986.jpg"
     },
 
     {
       "bandId": "2",
       "title": "Bad Vibrations", 
       "year": "2006",
-      "img": "./assets/adaytoremember/badvibrations.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/adaytoremember/badvibrations.jpg"
     },
     {
       "bandId": "2",
       "title": "What Separates Me From You", 
       "year": "2010",
-      "img": "./assets/adaytoremember/whatseparatesmefromyou.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/adaytoremember/whatseparatesmefromyou.jpg"
     },
     {
       "bandId": "2",
       "title": "Youre Welcome", 
       "year": "2021",
-      "img": "./assets/adaytoremember/yourewelcome.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/adaytoremember/yourewelcome.jpg"
     },
 
     {
       "bandId": "3",
       "title": "Beyond The Wandering Moon", 
       "year": "1997",
-      "img": "./assets/aeternus/beyondthewanderingmoon1997.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/aeternus/beyondthewanderingmoon1997.jpg"
     },
 
     {
       "bandId": "4",
       "title": "The Avenger", 
       "year": "1999",
-      "img": "./assets/amonamarth/theavenger1999.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/amonamarth/theavenger1999.jpg"
     },
     {
       "bandId": "4",
       "title": "Twilight of the Thunder God", 
       "year": "2008",
-      "img": "./assets/amonamarth/twilightofthethundergod2008.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/amonamarth/twilightofthethundergod2008.jpg"
     },
     {
       "bandId": "4",
       "title": "Surtur Rising", 
       "year": "2011",
-      "img": "./assets/amonamarth/surturrising2011.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/amonamarth/surturrising2011.jpg"
     },
     {
       "bandId": "4",
       "title": "Deceiver of the Gods", 
       "year": "2013",
-      "img": "./assets/amonamarth/deceiverofthegods2013.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/amonamarth/deceiverofthegods2013.jpg"
     },
 
     {
       "bandId": "5",
       "title": "Fistfulof Metal", 
       "year": "1984",
-      "img": "./assets/anthrax/fistfulofmetal.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/anthrax/fistfulofmetal.jpg"
     },
     {
       "bandId": "5",
       "title": "Spreading The Disease", 
       "year": "1985",
-      "img": "./assets/anthrax/spreadingthedisease.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/anthrax/spreadingthedisease.jpg"
     },
     {
       "bandId": "5",
       "title": "Among The Living", 
       "year": "1986",
-      "img": "./assets/anthrax/amongtheliving.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/anthrax/amongtheliving.jpg"
     },
 
     {
       "bandId": "6",
       "title": "Cult", 
       "year": "2000",
-      "img": "./assets/apocalyptica/cult2000.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/apocalyptica/cult2000.jpg"
     },
     {
       "bandId": "6",
       "title": "Apocalyptica", 
       "year": "2005",
-      "img": "./assets/apocalyptica/apocalyptica2005.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/apocalyptica/apocalyptica2005.jpg"
     },
     {
       "bandId": "6",
       "title": "7th Symphony", 
       "year": "2010",
-      "img": "./assets/apocalyptica/7thsymphony2010.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/apocalyptica/7thsymphony2010.jpg"
     },
 
     {
       "bandId": "7",
       "title": "Black Earth", 
       "year": "1996",
-      "img": "./assets/arch/blackearth1996.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/arch/blackearth1996.jpg"
     },
     {
       "bandId": "7",
       "title": "Stigmata", 
       "year": "1998",
-      "img": "./assets/arch/stigmata1998.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/arch/stigmata1998.jpg"
     },
     {
       "bandId": "7",
       "title": "Wages of Sin", 
       "year": "2001",
-      "img": "./assets/arch/wagesofsin2001.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/arch/wagesofsin2001.jpg"
     },
     {
       "bandId": "7",
       "title": "Anthems of the Rebellion", 
       "year": "2003",
-      "img": "./assets/arch/anthemsofrebellion2003.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/arch/anthemsofrebellion2003.jpg"
     },
     {
       "bandId": "7",
       "title": "Doomsday Machine", 
       "year": "2005",
-      "img": "./assets/arch/doomsdaymachine2005.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/arch/doomsdaymachine2005.jpg"
     },
     {
       "bandId": "7",
       "title": "Rise of the Tyrant", 
       "year": "2007",
-      "img": "./assets/arch/riseofthetyrant2007.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/arch/riseofthetyrant2007.jpg"
     },
     {
       "bandId": "7",
       "title": "The Root of All Evil", 
       "year": "2009",
-      "img": "./assets/arch/therootofallevil2009.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/arch/therootofallevil2009.jpg"
     },
     {
       "bandId": "7",
       "title": "Khaos Legions", 
       "year": "2011",
-      "img": "./assets/arch/khaoslegions2011.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/arch/khaoslegions2011.jpg"
     },
     {
       "bandId": "7",
       "title": "War Eternal", 
       "year": "2014",
-      "img": "./assets/arch/wareternal2014.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/arch/wareternal2014.jpg"
     },
     {
       "bandId": "7",
       "title": "Will To Power", 
       "year": "2017",
-      "img": "./assets/arch/willtopower2017.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/arch/willtopower2017.jpg"
     },
 
     {
       "bandId": "8",
       "title": "Stand Up And Scream", 
       "year": "2009",
-      "img": "./assets/askingalexandria/standupandscream2009.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/askingalexandria/standupandscream2009.jpg"
     },
     {
       "bandId": "8",
       "title": "Asking Alexandria", 
       "year": "2017",
-      "img": "./assets/askingalexandria/askingalexandria2017.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/askingalexandria/askingalexandria2017.jpg"
     },
 
     {
       "bandId": "9",
       "title": "Constellations", 
       "year": "2009",
-      "img": "./assets/augustburnsred/constellations2009.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/augustburnsred/constellations2009.jpg"
     },
     {
       "bandId": "9",
       "title": "Found In Far Away Places", 
       "year": "2015",
-      "img": "./assets/augustburnsred/foundinfarawayplaces.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/augustburnsred/foundinfarawayplaces.jpg"
     },
     {
       "bandId": "9",
       "title": "Guardians", 
       "year": "2020",
-      "img": "./assets/augustburnsred/guardians.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/augustburnsred/guardians.jpg"
     },
 
     {
       "bandId": "10",
       "title": "City of Evil", 
       "year": "2005",
-      "img": "./assets/avengedsevenfold/2005cityofevil.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/avengedsevenfold/2005cityofevil.jpg"
     },
     {
       "bandId": "10",
       "title": "Avenged Sevenfold", 
       "year": "2007",
-      "img": "./assets/avengedsevenfold/2007avengedsevenfold.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/avengedsevenfold/2007avengedsevenfold.jpg"
     },
     {
       "bandId": "10",
       "title": "Nightmare", 
       "year": "2010",
-      "img": "./assets/avengedsevenfold/2010nightmare.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/avengedsevenfold/2010nightmare.jpg"
     },
     {
       "bandId": "10",
       "title": "The Stage", 
       "year": "2016",
-      "img": "./assets/avengedsevenfold/2016thestage.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/avengedsevenfold/2016thestage.jpg"
     },
 
     {
       "bandId": "11",
       "title": "Black Sabbath", 
       "year": "1970",
-      "img": "./assets/blacksabbath/blacksabbath1970.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/blacksabbath/blacksabbath1970.jpg"
     },
     {
       "bandId": "11",
       "title": "Paranoid", 
       "year": "1970",
-      "img": "./assets/blacksabbath/paranoid1970.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/blacksabbath/paranoid1970.jpg"
     },
     {
       "bandId": "11",
       "title": "Never Say Die", 
       "year": "1978",
-      "img": "./assets/blacksabbath/neversaydie.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/blacksabbath/neversaydie.jpg"
     },
     {
       "bandId": "11",
       "title": "Heaven and Hell", 
       "year": "1980",
-      "img": "./assets/blacksabbath/heavenandhell1980.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/blacksabbath/heavenandhell1980.jpg"
     },
     {
       "bandId": "11",
       "title": "Born Again", 
       "year": "1983",
-      "img": "./assets/blacksabbath/bornagain.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/blacksabbath/bornagain.jpg"
     },
 
     {
       "bandId": "12",
       "title": "The Poison", 
       "year": "2005",
-      "img": "./assets/bullet/thepoison.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/bullet/thepoison.jpg"
     },
     {
       "bandId": "12",
       "title": "Venom", 
       "year": "2005",
-      "img": "./assets/bullet/venom.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/bullet/venom.jpg"
     },
     {
       "bandId": "12",
       "title": "Scream Aim Fire", 
       "year": "2008",
-      "img": "./assets/bullet/screamaimfire.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/bullet/screamaimfire.jpg"
     },
     {
       "bandId": "12",
       "title": "Fever", 
       "year": "2010",
-      "img": "./assets/bullet/fever2010.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/bullet/fever2010.jpg"
     },
     {
       "bandId": "12",
       "title": "Temper Temper", 
       "year": "2013",
-      "img": "./assets/bullet/tempertemper.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/bullet/tempertemper.jpg"
     },
     {
       "bandId": "12",
       "title": "Gravity", 
       "year": "2018",
-      "img": "./assets/bullet/gravity.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/bullet/gravity.jpg"
     },
 
     {
       "bandId": "13",
       "title": "Something Wild", 
       "year": "1997",
-      "img": "./assets/childrenofbodom/1997somethingwild.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/childrenofbodom/1997somethingwild.jpg"
     },
     {
       "bandId": "13",
       "title": "Hate Breeder", 
       "year": "1999",
-      "img": "./assets/childrenofbodom/1999hatebreeder.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/childrenofbodom/1999hatebreeder.jpg"
     },
     {
       "bandId": "13",
       "title": "Follow the Reaper", 
       "year": "2000",
-      "img": "./assets/childrenofbodom/2000followthereaper.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/childrenofbodom/2000followthereaper.jpg"
     },
     {
       "bandId": "13",
       "title": "Hate Crew Death Roll", 
       "year": "2003",
-      "img": "./assets/childrenofbodom/2003hatecrewdeathroll.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/childrenofbodom/2003hatecrewdeathroll.jpg"
     },
     {
       "bandId": "13",
       "title": "Blood Drunk", 
       "year": "2008",
-      "img": "./assets/childrenofbodom/2008blooddrunk.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/childrenofbodom/2008blooddrunk.jpg"
     },
     {
       "bandId": "13",
       "title": "Halo of Blood", 
       "year": "2013",
-      "img": "./assets/childrenofbodom/2013haloofblood.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/childrenofbodom/2013haloofblood.jpg"
     },
     {
       "bandId": "13",
       "title": "I Worship Chaos", 
       "year": "2015",
-      "img": "./assets/childrenofbodom/2015iworshipchaos.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/childrenofbodom/2015iworshipchaos.jpg"
     },
     {
       "bandId": "13",
       "title": "Hexed", 
       "year": "2019",
-      "img": "./assets/childrenofbodom/2019hexed.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/childrenofbodom/2019hexed.jpg"
     },
 
     
@@ -372,1697 +372,1697 @@
       "bandId": "14",
       "title": "Parachutes", 
       "year": "2000",
-      "img": "./assets/coldplay/2000parachutes.jpeg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/coldplay/2000parachutes.jpeg"
     },
     {
       "bandId": "14",
       "title": "A Rush of Blood the to Head", 
       "year": "2002",
-      "img": "./assets/coldplay/2002arushofbloodtothehead.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/coldplay/2002arushofbloodtothehead.jpg"
     },
     {
       "bandId": "14",
       "title": "XY", 
       "year": "2005",
-      "img": "./assets/coldplay/2005xy.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/coldplay/2005xy.jpg"
     },
     {
       "bandId": "14",
       "title": "Viva la Vida", 
       "year": "2008",
-      "img": "./assets/coldplay/2008vivalavida.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/coldplay/2008vivalavida.jpg"
     },
     {
       "bandId": "14",
       "title": "Ghost Stories", 
       "year": "2014",
-      "img": "./assets/coldplay/2014ghoststories.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/coldplay/2014ghoststories.jpg"
     },
 
     {
       "bandId": "15",
       "title": "The Principle of Evil Made Flesh", 
       "year": "1994",
-      "img": "./assets/cradleoffilth/theprincipleofevilmadeflesh1994.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/cradleoffilth/theprincipleofevilmadeflesh1994.jpg"
     },
     {
       "bandId": "15",
       "title": "Dusk and Herembrace", 
       "year": "1996",
-      "img": "./assets/cradleoffilth/duskandherembrace1996.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/cradleoffilth/duskandherembrace1996.jpg"
     },
     {
       "bandId": "15",
       "title": "Vempire", 
       "year": "1996",
-      "img": "./assets/cradleoffilth/vempireordarkfaerytalesinphallustein1996.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/cradleoffilth/vempireordarkfaerytalesinphallustein1996.jpg"
     },
     {
       "bandId": "15",
       "title": "Cruelty and the Beast", 
       "year": "1998",
-      "img": "./assets/cradleoffilth/crueltyandthebeats1998.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/cradleoffilth/crueltyandthebeats1998.jpg"
     },
     {
       "bandId": "15",
       "title": "From the Cradle to Enslave", 
       "year": "1999",
-      "img": "./assets/cradleoffilth/fromthecradletoenslave1999.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/cradleoffilth/fromthecradletoenslave1999.jpg"
     },
     {
       "bandId": "15",
       "title": "Midian", 
       "year": "2000",
-      "img": "./assets/cradleoffilth/midian2000.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/cradleoffilth/midian2000.jpg"
     },
     {
       "bandId": "15",
       "title": "Bitter Suites to Succubi", 
       "year": "2001",
-      "img": "./assets/cradleoffilth/bittersuitestosuccubi2001.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/cradleoffilth/bittersuitestosuccubi2001.jpg"
     },
     {
       "bandId": "15",
       "title": "Damnation and a Day", 
       "year": "2003",
-      "img": "./assets/cradleoffilth/damnationandaday2003.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/cradleoffilth/damnationandaday2003.jpg"
     },
     {
       "bandId": "15",
       "title": "Nymphetamine", 
       "year": "2004",
-      "img": "./assets/cradleoffilth/nymphetamine2004.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/cradleoffilth/nymphetamine2004.jpg"
     },
     {
       "bandId": "15",
       "title": "Harder, Darker, Faster", 
       "year": "2006",
-      "img": "./assets/cradleoffilth/harderdarkerfaster2006.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/cradleoffilth/harderdarkerfaster2006.jpg"
     },
     {
       "bandId": "15",
       "title": "Thornography", 
       "year": "2006",
-      "img": "./assets/cradleoffilth/thornography2006.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/cradleoffilth/thornography2006.jpg"
     },
     {
       "bandId": "15",
       "title": "God Speed on the Devils Thunder", 
       "year": "2008",
-      "img": "./assets/cradleoffilth/godspeedonthedevilsthunder2008.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/cradleoffilth/godspeedonthedevilsthunder2008.jpg"
     },
     {
       "bandId": "15",
       "title": "Darkly, Darkly Venus Venus", 
       "year": "2010",
-      "img": "./assets/cradleoffilth/darklydarklyvenusvenus2010.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/cradleoffilth/darklydarklyvenusvenus2010.jpg"
     },
     {
       "bandId": "15",
       "title": "The Manticore and other Horrors", 
       "year": "2012",
-      "img": "./assets/cradleoffilth/themanticoreandotherhorrors2012.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/cradleoffilth/themanticoreandotherhorrors2012.jpg"
     },
     {
       "bandId": "15",
       "title": "Hammer of the Witches", 
       "year": "2015",
-      "img": "./assets/cradleoffilth/hammerofthewitches2015.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/cradleoffilth/hammerofthewitches2015.jpg"
     },
     {
       "bandId": "15",
       "title": "Cryptoriana the Seductiveness of Decay", 
       "year": "2017",
-      "img": "./assets/cradleoffilth/cryptorianatheseductivenessofdecay2017.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/cradleoffilth/cryptorianatheseductivenessofdecay2017.jpg"
     },
     {
       "bandId": "15",
       "title": "Existenceis Futile", 
       "year": "2021",
-      "img": "./assets/cradleoffilth/existenceisfutile2021.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/cradleoffilth/existenceisfutile2021.jpg"
     },
 
     {
       "bandId": "16",
       "title": "For All Tid", 
       "year": "1994",
-      "img": "./assets/dimmuborgir/foralltid1994.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/dimmuborgir/foralltid1994.jpg"
     },
     {
       "bandId": "16",
       "title": "Stormblast", 
       "year": "1996",
-      "img": "./assets/dimmuborgir/stormblast1996.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/dimmuborgir/stormblast1996.jpg"
     },
     {
       "bandId": "16",
       "title": "Enthrone Darkness Triumphant", 
       "year": "1997",
-      "img": "./assets/dimmuborgir/enthronedarknesstriumphant1997.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/dimmuborgir/enthronedarknesstriumphant1997.jpg"
     },
     {
       "bandId": "16",
       "title": "Godless Savage Garden", 
       "year": "1998",
-      "img": "./assets/dimmuborgir/godlesssavagegarden1998.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/dimmuborgir/godlesssavagegarden1998.jpg"
     },
     {
       "bandId": "16",
       "title": "Spiritual Black Dimensions", 
       "year": "1999",
-      "img": "./assets/dimmuborgir/spiritualblackdimensions1999.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/dimmuborgir/spiritualblackdimensions1999.jpg"
     },
     {
       "bandId": "16",
       "title": "Puritanical Euphoric Misanthropia", 
       "year": "2001",
-      "img": "./assets/dimmuborgir/puritanicaleuphoricmisanthropia2001.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/dimmuborgir/puritanicaleuphoricmisanthropia2001.jpg"
     },
     {
       "bandId": "16",
       "title": "Death Cult Armageddon", 
       "year": "2003",
-      "img": "./assets/dimmuborgir/deathcultarmageddon2003.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/dimmuborgir/deathcultarmageddon2003.jpg"
     },
     {
       "bandId": "16",
       "title": "Insorte Diaboli", 
       "year": "2007",
-      "img": "./assets/dimmuborgir/insortediaboli2007.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/dimmuborgir/insortediaboli2007.jpg"
     },
     {
       "bandId": "16",
       "title": "Abrahadabra", 
       "year": "2010",
-      "img": "./assets/dimmuborgir/abrahadabra2010.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/dimmuborgir/abrahadabra2010.jpg"
     },
     {
       "bandId": "16",
       "title": "Eonian", 
       "year": "2018",
-      "img": "./assets/dimmuborgir/eonian2018.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/dimmuborgir/eonian2018.jpg"
     },
 
     {
       "bandId": "17",
       "title": "Valley of the Damned", 
       "year": "2003",
-      "img": "./assets/dragonforce/valleyofthedamned2003.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/dragonforce/valleyofthedamned2003.jpg"
     },
     {
       "bandId": "17",
       "title": "Sonic Firestorm", 
       "year": "2004",
-      "img": "./assets/dragonforce/sonicfirestorm2004.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/dragonforce/sonicfirestorm2004.jpg"
     },
     {
       "bandId": "17",
       "title": "Inhuman Rampage", 
       "year": "2005",
-      "img": "./assets/dragonforce/inhumanrampage2005.png"
+      "img": "https://vicmosojeda.github.io/datajson/assets/dragonforce/inhumanrampage2005.png"
     },
     {
       "bandId": "17",
       "title": "Ultra Beatdown", 
       "year": "2008",
-      "img": "./assets/dragonforce/ultrabeatdown2008.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/dragonforce/ultrabeatdown2008.jpg"
     },
     {
       "bandId": "17",
       "title": "The Power Within", 
       "year": "2012",
-      "img": "./assets/dragonforce/thepowerwithin2012.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/dragonforce/thepowerwithin2012.jpg"
     },
     {
       "bandId": "17",
       "title": "Maximum Overload", 
       "year": "2014",
-      "img": "./assets/dragonforce/maximumoverload2014.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/dragonforce/maximumoverload2014.jpg"
     },
     {
       "bandId": "17",
       "title": "Reaching Into Infinity", 
       "year": "2017",
-      "img": "./assets/dragonforce/reachingintoinfinity2017.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/dragonforce/reachingintoinfinity2017.jpg"
     },
     {
       "bandId": "17",
       "title": "Extreme Power Metal", 
       "year": "2019",
-      "img": "./assets/dragonforce/extremepowermetal2019.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/dragonforce/extremepowermetal2019.jpg"
     },
 
     {
       "bandId": "18",
       "title": "Images And Words", 
       "year": "1992",
-      "img": "./assets/dreamtheater/imagesandwords1992.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/dreamtheater/imagesandwords1992.jpg"
     },
     {
       "bandId": "18",
       "title": "Awake", 
       "year": "1994",
-      "img": "./assets/dreamtheater/awake1994.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/dreamtheater/awake1994.jpg"
     },
     {
       "bandId": "18",
       "title": "A Change of Seasons", 
       "year": "1995",
-      "img": "./assets/dreamtheater/achangeofseasons1995.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/dreamtheater/achangeofseasons1995.jpg"
     },
     {
       "bandId": "18",
       "title": "Falling Into Infinity", 
       "year": "1997",
-      "img": "./assets/dreamtheater/fallingintoinfinity1997.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/dreamtheater/fallingintoinfinity1997.jpg"
     },
     {
       "bandId": "18",
       "title": "Metropolis Part 2", 
       "year": "1999",
-      "img": "./assets/dreamtheater/metropolispart21999.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/dreamtheater/metropolispart21999.jpg"
     },
     {
       "bandId": "18",
       "title": "Six Degrees of Inner Turbulence", 
       "year": "2002",
-      "img": "./assets/dreamtheater/sixdegreesofinnerturbulence2002.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/dreamtheater/sixdegreesofinnerturbulence2002.jpg"
     },
     {
       "bandId": "18",
       "title": "Train of Thought", 
       "year": "2003",
-      "img": "./assets/dreamtheater/trainofthought2003.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/dreamtheater/trainofthought2003.jpg"
     },
     {
       "bandId": "18",
       "title": "Octavarium", 
       "year": "2005",
-      "img": "./assets/dreamtheater/octavarium2005.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/dreamtheater/octavarium2005.jpg"
     },
     {
       "bandId": "18",
       "title": "System Chaos", 
       "year": "2007",
-      "img": "./assets/dreamtheater/systemchaos2007.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/dreamtheater/systemchaos2007.jpg"
     },
     {
       "bandId": "18",
       "title": "The Astonishing", 
       "year": "2007",
-      "img": "./assets/dreamtheater/theastonishing2016.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/dreamtheater/theastonishing2016.jpg"
     },
     {
       "bandId": "18",
       "title": "Black Clouds & Silver Linings", 
       "year": "2009",
-      "img": "./assets/dreamtheater/blackcloudsysilverlinings2009.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/dreamtheater/blackcloudsysilverlinings2009.jpg"
     },
     {
       "bandId": "18",
       "title": "A Dramatic Turn of Events", 
       "year": "2011",
-      "img": "./assets/dreamtheater/adramaticturnofevents2011.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/dreamtheater/adramaticturnofevents2011.jpg"
     },
     {
       "bandId": "18",
       "title": "Distance Overtime", 
       "year": "2019",
-      "img": "./assets/dreamtheater/distanceovertime2019.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/dreamtheater/distanceovertime2019.jpg"
     },
     {
       "bandId": "18",
       "title": "A View From the to Pof the World", 
       "year": "2021",
-      "img": "./assets/dreamtheater/aviewfromthetopoftheworld2021.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/dreamtheater/aviewfromthetopoftheworld2021.jpg"
     },
 
     {
       "bandId": "19",
       "title": "Consign to Oblivion", 
       "year": "2005",
-      "img": "./assets/epica/consigntooblivion.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/epica/consigntooblivion.jpg"
     },
     {
       "bandId": "19",
       "title": "The Divine Conspiracy", 
       "year": "2007",
-      "img": "./assets/epica/thedivineconspiracy.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/epica/thedivineconspiracy.jpg"
     },
     {
       "bandId": "19",
       "title": "Desing Your Universe", 
       "year": "2009",
-      "img": "./assets/epica/desingyouruniverse.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/epica/desingyouruniverse.jpg"
     },
     {
       "bandId": "19",
       "title": "Requiem for the Indifferent", 
       "year": "2012",
-      "img": "./assets/epica/requiemfortheindifferent.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/epica/requiemfortheindifferent.jpg"
     },
     {
       "bandId": "19",
       "title": "The Phantom Agony", 
       "year": "2013",
-      "img": "./assets/epica/thephantomagony.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/epica/thephantomagony.jpg"
     },
     {
       "bandId": "19",
       "title": "The Holographic Principle", 
       "year": "2016",
-      "img": "./assets/epica/theholographicprinciple.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/epica/theholographicprinciple.jpg"
     },
     {
       "bandId": "19",
       "title": "The Solace System", 
       "year": "2017",
-      "img": "./assets/epica/thesolacesystem.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/epica/thesolacesystem.jpg"
     },
     {
       "bandId": "19",
       "title": "Omega", 
       "year": "2021",
-      "img": "./assets/epica/omega.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/epica/omega.jpg"
     },
 
     {
       "bandId": "20",
       "title": "Origin", 
       "year": "2000",
-      "img": "./assets/evanescence/origin2000.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/evanescence/origin2000.jpg"
     },
     {
       "bandId": "20",
       "title": "Fallen", 
       "year": "2003",
-      "img": "./assets/evanescence/fallen2003.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/evanescence/fallen2003.jpg"
     },
     {
       "bandId": "20",
       "title": "Anywhere But Home", 
       "year": "2004",
-      "img": "./assets/evanescence/anywherebuthome2004.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/evanescence/anywherebuthome2004.jpg"
     },
     {
       "bandId": "20",
       "title": "The Open Door", 
       "year": "2006",
-      "img": "./assets/evanescence/theopendoor2006.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/evanescence/theopendoor2006.jpg"
     },
     {
       "bandId": "20",
       "title": "Lost Whispers", 
       "year": "2016",
-      "img": "./assets/evanescence/lostwhispers2016.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/evanescence/lostwhispers2016.jpg"
     },
     {
       "bandId": "20",
       "title": "Synthesis", 
       "year": "2017",
-      "img": "./assets/evanescence/synthesis2017.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/evanescence/synthesis2017.jpg"
     },
     {
       "bandId": "20",
       "title": "The Bitter Truth", 
       "year": "2021",
-      "img": "./assets/evanescence/thebittertruth2021.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/evanescence/thebittertruth2021.jpg"
     },
 
     {
       "bandId": "21",
       "title": "The Flag of Punishment", 
       "year": "2003",
-      "img": "./assets/galneryus/theflagofpunishment2003.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/galneryus/theflagofpunishment2003.jpg"
     },
     {
       "bandId": "21",
       "title": "Advance to the fall", 
       "year": "2005",
-      "img": "./assets/galneryus/advancetothefall2005.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/galneryus/advancetothefall2005.jpg"
     },
     {
       "bandId": "21",
       "title": "Beyond the end of Despair", 
       "year": "2006",
-      "img": "./assets/galneryus/beyondtheendofdespair2006.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/galneryus/beyondtheendofdespair2006.jpg"
     },
     {
       "bandId": "21",
       "title": "Voices From the Past", 
       "year": "2007",
-      "img": "./assets/galneryus/voicesfromthepast2007.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/galneryus/voicesfromthepast2007.jpg"
     },
     {
       "bandId": "21",
       "title": "One for All", 
       "year": "2007",
-      "img": "./assets/galneryus/oneforall2007.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/galneryus/oneforall2007.jpg"
     },
     {
       "bandId": "21",
       "title": "Reincarnation", 
       "year": "2008",
-      "img": "./assets/galneryus/reincarnation2008.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/galneryus/reincarnation2008.jpg"
     },
     {
       "bandId": "21",
       "title": "Voices From the Past II", 
       "year": "2008",
-      "img": "./assets/galneryus/voicesfromthepastII2008.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/galneryus/voicesfromthepastII2008.jpg"
     },
     {
       "bandId": "21",
       "title": "Resurrection", 
       "year": "2010",
-      "img": "./assets/galneryus/resurrection2010.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/galneryus/resurrection2010.jpg"
     },
     {
       "bandId": "21",
       "title": "Voices From the Past III", 
       "year": "2010",
-      "img": "./assets/galneryus/voicesfromthepastIII2010.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/galneryus/voicesfromthepastIII2010.jpg"
     },
     {
       "bandId": "21",
       "title": "Phoenix Rising", 
       "year": "2011",
-      "img": "./assets/galneryus/phoenixrising2011.png"
+      "img": "https://vicmosojeda.github.io/datajson/assets/galneryus/phoenixrising2011.png"
     },
     {
       "bandId": "21",
       "title": "Kizuna", 
       "year": "2012",
-      "img": "./assets/galneryus/kizuna2012.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/galneryus/kizuna2012.jpg"
     },
     {
       "bandId": "21",
       "title": "Angel Salvation", 
       "year": "2012",
-      "img": "./assets/galneryus/angelsalvation2012.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/galneryus/angelsalvation2012.jpg"
     },
     {
       "bandId": "21",
       "title": "Iron Hearted Flag Vol 2", 
       "year": "2013",
-      "img": "./assets/galneryus/ironheartedflagvol22013.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/galneryus/ironheartedflagvol22013.jpg"
     },
     {
       "bandId": "21",
       "title": "Iron Hearted Flag Vol 1", 
       "year": "2013",
-      "img": "./assets/galneryus/ironheartedflagvol12013.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/galneryus/ironheartedflagvol12013.jpg"
     },
     {
       "bandId": "21",
       "title": "Veltegyus", 
       "year": "2014",
-      "img": "./assets/galneryus/veltegyus2014.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/galneryus/veltegyus2014.jpg"
     },
     {
       "bandId": "21",
       "title": "Under the Force of Courage", 
       "year": "2015",
-      "img": "./assets/galneryus/undertheforceofcourage2015.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/galneryus/undertheforceofcourage2015.jpg"
     },
     {
       "bandId": "21",
       "title": "Ultimate Sacrifice", 
       "year": "2017",
-      "img": "./assets/galneryus/ultimatesacrifice2017.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/galneryus/ultimatesacrifice2017.jpg"
     },
     {
       "bandId": "21",
       "title": "Into the Purgatory", 
       "year": "2019",
-      "img": "./assets/galneryus/intothepurgatory2019.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/galneryus/intothepurgatory2019.jpg"
     },
     {
       "bandId": "21",
       "title": "Vorvados", 
       "year": "2019",
-      "img": "./assets/galneryus/vorvados2019.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/galneryus/vorvados2019.jpg"
     },
     {
       "bandId": "21",
       "title": "Union Gives Strength", 
       "year": "2021",
-      "img": "./assets/galneryus/2021uniongivesstrength.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/galneryus/2021uniongivesstrength.jpg"
     },
 
     {
       "bandId": "22",
       "title": "Iron Maiden", 
       "year": "1980",
-      "img": "./assets/ironmaiden/ironmaiden1980.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/ironmaiden/ironmaiden1980.jpg"
     },
     {
       "bandId": "22",
       "title": "Killers", 
       "year": "1981",
-      "img": "./assets/ironmaiden/killers1981.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/ironmaiden/killers1981.jpg"
     },
     {
       "bandId": "22",
       "title": "The Number of the Beast", 
       "year": "1982",
-      "img": "./assets/ironmaiden/thenumberofthebeast1982.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/ironmaiden/thenumberofthebeast1982.jpg"
     },
     {
       "bandId": "22",
       "title": "Piece of Mind", 
       "year": "1983",
-      "img": "./assets/ironmaiden/pieceofmind1983.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/ironmaiden/pieceofmind1983.jpg"
     },
     {
       "bandId": "22",
       "title": "Powerslave", 
       "year": "1984",
-      "img": "./assets/ironmaiden/powerslave1984.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/ironmaiden/powerslave1984.jpg"
     },
     {
       "bandId": "22",
       "title": "Somewhere in Time", 
       "year": "1986",
-      "img": "./assets/ironmaiden/somewhereintime1986.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/ironmaiden/somewhereintime1986.jpg"
     },
     {
       "bandId": "22",
       "title": "Seventh Son of a Seventh Son", 
       "year": "1988",
-      "img": "./assets/ironmaiden/seventhsonofaseventhson1988.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/ironmaiden/seventhsonofaseventhson1988.jpg"
     },
     {
       "bandId": "22",
       "title": "No Player for the Dying", 
       "year": "1990",
-      "img": "./assets/ironmaiden/noplayerforthedying1990.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/ironmaiden/noplayerforthedying1990.jpg"
     },
     {
       "bandId": "22",
       "title": "Fear of the Dark", 
       "year": "1992",
-      "img": "./assets/ironmaiden/fearofthedark1992.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/ironmaiden/fearofthedark1992.jpg"
     },
     {
       "bandId": "22",
       "title": "The X Factor", 
       "year": "1995",
-      "img": "./assets/ironmaiden/thexfactor1995.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/ironmaiden/thexfactor1995.jpg"
     },
     {
       "bandId": "22",
       "title": "Virtual X", 
       "year": "1998",
-      "img": "./assets/ironmaiden/virtualx1998.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/ironmaiden/virtualx1998.jpg"
     },
     {
       "bandId": "22",
       "title": "Brave New World", 
       "year": "2000",
-      "img": "./assets/ironmaiden/bravenewworld2000.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/ironmaiden/bravenewworld2000.jpg"
     },
     {
       "bandId": "22",
       "title": "Dance of Death", 
       "year": "2003",
-      "img": "./assets/ironmaiden/danceofdeath2003.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/ironmaiden/danceofdeath2003.jpg"
     },
     {
       "bandId": "22",
       "title": "A Matter of Life and Death", 
       "year": "2006",
-      "img": "./assets/ironmaiden/amatteroflifeanddeath2006.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/ironmaiden/amatteroflifeanddeath2006.jpg"
     },
     {
       "bandId": "22",
       "title": "The Book of Souls", 
       "year": "2015",
-      "img": "./assets/ironmaiden/thebookofsouls2015.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/ironmaiden/thebookofsouls2015.jpg"
     },
     {
       "bandId": "22",
       "title": "The Final Frontier", 
       "year": "2010",
-      "img": "./assets/ironmaiden/thefinalfrontier2010.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/ironmaiden/thefinalfrontier2010.jpg"
     },
     {
       "bandId": "22",
       "title": "Senjutsu", 
       "year": "2021",
-      "img": "./assets/ironmaiden/senjutsu2021.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/ironmaiden/senjutsu2021.jpg"
     },
 
     {
       "bandId": "23",
       "title": "Rock a Rolla", 
       "year": "1974",
-      "img": "./assets/judaspriest/1974rockarolla.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/judaspriest/1974rockarolla.jpg"
     },
     {
       "bandId": "23",
       "title": "Sad Wings of Destiny", 
       "year": "1976",
-      "img": "./assets/judaspriest/1976sadwingsofdestiny.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/judaspriest/1976sadwingsofdestiny.jpg"
     },
     {
       "bandId": "23",
       "title": "Sin After Sin", 
       "year": "1977",
-      "img": "./assets/judaspriest/1977sinaftersin.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/judaspriest/1977sinaftersin.jpg"
     },
     {
       "bandId": "23",
       "title": "Killing Machine", 
       "year": "1978",
-      "img": "./assets/judaspriest/1978killingmachine.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/judaspriest/1978killingmachine.jpg"
     },
     {
       "bandId": "23",
       "title": "Stained Class", 
       "year": "1978",
-      "img": "./assets/judaspriest/1978stainedclass.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/judaspriest/1978stainedclass.jpg"
     },
     {
       "bandId": "23",
       "title": "British Steel", 
       "year": "1980",
-      "img": "./assets/judaspriest/1980britishsteel.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/judaspriest/1980britishsteel.jpg"
     },
     {
       "bandId": "23",
       "title": "Point of Entry", 
       "year": "1981",
-      "img": "./assets/judaspriest/1981pointofentry.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/judaspriest/1981pointofentry.jpg"
     },
     {
       "bandId": "23",
       "title": "Screaming for Vengeance", 
       "year": "1982",
-      "img": "./assets/judaspriest/1982screamingforvengeance.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/judaspriest/1982screamingforvengeance.jpg"
     },
     {
       "bandId": "23",
       "title": "Defender of the Faith", 
       "year": "1984",
-      "img": "./assets/judaspriest/1984defendersofthefaith.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/judaspriest/1984defendersofthefaith.jpg"
     },
     {
       "bandId": "23",
       "title": "Turbo", 
       "year": "1986",
-      "img": "./assets/judaspriest/1986turbo.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/judaspriest/1986turbo.jpg"
     },
     {
       "bandId": "23",
       "title": "Ram It Down", 
       "year": "1988",
-      "img": "./assets/judaspriest/1988ramitdown.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/judaspriest/1988ramitdown.jpg"
     },
     {
       "bandId": "23",
       "title": "Painkiller", 
       "year": "1990",
-      "img": "./assets/judaspriest/1990painkiller.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/judaspriest/1990painkiller.jpg"
     },
     {
       "bandId": "23",
       "title": "Angel of Retribution", 
       "year": "2005",
-      "img": "./assets/judaspriest/2005angelofretribution.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/judaspriest/2005angelofretribution.jpg"
     },
     {
       "bandId": "23",
       "title": "Nostradamus", 
       "year": "2008",
-      "img": "./assets/judaspriest/2008nostradamus.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/judaspriest/2008nostradamus.jpg"
     },
     {
       "bandId": "23",
       "title": "Fire Power", 
       "year": "2018",
-      "img": "./assets/judaspriest/2018firepower.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/judaspriest/2018firepower.jpg"
     },
 
     {
       "bandId": "24",
       "title": "Hottert Han Hell", 
       "year": "1974",
-      "img": "./assets/kiss/1974hotterthanhell.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/kiss/1974hotterthanhell.jpg"
     },
     {
       "bandId": "24",
       "title": "Dressed to Kill", 
       "year": "1975",
-      "img": "./assets/kiss/1975dressedtokill.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/kiss/1975dressedtokill.jpg"
     },
     {
       "bandId": "24",
       "title": "Destroyer", 
       "year": "1976",
-      "img": "./assets/kiss/1976destroyer.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/kiss/1976destroyer.jpg"
     },
     {
       "bandId": "24",
       "title": "Love Gun", 
       "year": "1977",
-      "img": "./assets/kiss/1977lovegun.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/kiss/1977lovegun.jpg"
     },
     {
       "bandId": "24",
       "title": "Dynasty", 
       "year": "1979",
-      "img": "./assets/kiss/1979dynasty.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/kiss/1979dynasty.jpg"
     },
     {
       "bandId": "24",
       "title": "Unmasked", 
       "year": "1980",
-      "img": "./assets/kiss/1980unmasked.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/kiss/1980unmasked.jpg"
     },
     {
       "bandId": "24",
       "title": "Creatures of the Night", 
       "year": "1982",
-      "img": "./assets/kiss/1982creaturesofthenight.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/kiss/1982creaturesofthenight.jpg"
     },
     {
       "bandId": "24",
       "title": "Crazy Nights",
       "year": "1987",
-      "img": "./assets/kiss/1987crazynights.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/kiss/1987crazynights.jpg"
     },
     {
       "bandId": "24",
       "title": "Psychocircus", 
       "year": "1998",
-      "img": "./assets/kiss/1998psychocircus.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/kiss/1998psychocircus.jpg"
     },
 
     {
       "bandId": "25",
       "title": "Lovelorn", 
       "year": "2004",
-      "img": "./assets/leaveseyes/lovelorn2004.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/leaveseyes/lovelorn2004.jpg"
     },
     {
       "bandId": "25",
       "title": "Vinland Saga", 
       "year": "2005",
-      "img": "./assets/leaveseyes/vinlandsaga2005.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/leaveseyes/vinlandsaga2005.jpg"
     },
     {
       "bandId": "25",
       "title": "Njord", 
       "year": "2009",
-      "img": "./assets/leaveseyes/njord2009.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/leaveseyes/njord2009.jpg"
     },
     {
       "bandId": "25",
       "title": "Meredead", 
       "year": "2011",
-      "img": "./assets/leaveseyes/meredead2011.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/leaveseyes/meredead2011.jpg"
     },
     {
       "bandId": "25",
       "title": "Symphonies of the Night", 
       "year": "2013",
-      "img": "./assets/leaveseyes/symphoniesofthenight2013.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/leaveseyes/symphoniesofthenight2013.jpg"
     },
     {
       "bandId": "25",
       "title": "King of Kings", 
       "year": "2015",
-      "img": "./assets/leaveseyes/kingofkings2015.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/leaveseyes/kingofkings2015.jpg"
     },
     {
       "bandId": "25",
       "title": "Sign of the Dragon Head", 
       "year": "2018",
-      "img": "./assets/leaveseyes/signofthedragonhead2018.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/leaveseyes/signofthedragonhead2018.jpg"
     },
     {
       "bandId": "25",
       "title": "The Last Viking", 
       "year": "2020",
-      "img": "./assets/leaveseyes/thelastviking2020.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/leaveseyes/thelastviking2020.jpg"
     },
 
     {
       "bandId": "26",
       "title": "Led Zeppelin", 
       "year": "1969",
-      "img": "./assets/ledzeppelin/1969ledzeppelin.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/ledzeppelin/1969ledzeppelin.jpg"
     },
     {
       "bandId": "26",
       "title": "Led Zeppelin II", 
       "year": "1969",
-      "img": "./assets/ledzeppelin/1969ledzeppelinII.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/ledzeppelin/1969ledzeppelinII.jpg"
     },
     {
       "bandId": "26",
       "title": "Led Zeppelin III", 
       "year": "1970",
-      "img": "./assets/ledzeppelin/1970ledzeppelinIII.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/ledzeppelin/1970ledzeppelinIII.jpg"
     },
     {
       "bandId": "26",
       "title": "Led Zeppelin IV", 
       "year": "1971",
-      "img": "./assets/ledzeppelin/1971ledzeppelinIV.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/ledzeppelin/1971ledzeppelinIV.jpg"
     },
     {
       "bandId": "26",
       "title": "Physical Graffiti", 
       "year": "1975",
-      "img": "./assets/ledzeppelin/1975physicalgraffiti.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/ledzeppelin/1975physicalgraffiti.jpg"
     },
     {
       "bandId": "26",
       "title": "Presence", 
       "year": "1976",
-      "img": "./assets/ledzeppelin/1976presence.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/ledzeppelin/1976presence.jpg"
     },
     {
       "bandId": "26",
       "title": "Inthrough the out Door", 
       "year": "1979",
-      "img": "./assets/ledzeppelin/1979inthroughtheoutdoor.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/ledzeppelin/1979inthroughtheoutdoor.jpg"
     },
 
     {
       "bandId": "27",
       "title": "Hybrid Theory", 
       "year": "2000",
-      "img": "./assets/linkinpark/hybridtheory2000.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/linkinpark/hybridtheory2000.jpg"
     },
     {
       "bandId": "27",
       "title": "Meteora", 
       "year": "2003",
-      "img": "./assets/linkinpark/meteora2003.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/linkinpark/meteora2003.jpg"
     },
     {
       "bandId": "27",
       "title": "Minutes to Midnight", 
       "year": "2007",
-      "img": "./assets/linkinpark/minutestomidnight2007.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/linkinpark/minutestomidnight2007.jpg"
     },
     {
       "bandId": "27",
       "title": "A Thousand Suns", 
       "year": "2010",
-      "img": "./assets/linkinpark/athousandsuns2010.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/linkinpark/athousandsuns2010.jpg"
     },
     {
       "bandId": "27",
       "title": "Living Things", 
       "year": "2012",
-      "img": "./assets/linkinpark/livingthings2012.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/linkinpark/livingthings2012.jpg"
     },
     {
       "bandId": "27",
       "title": "The Hunting Party", 
       "year": "2014",
-      "img": "./assets/linkinpark/thehuntingparty2014.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/linkinpark/thehuntingparty2014.jpg"
     },
 
     {
       "bandId": "28",
       "title": "Burn My Eyes", 
       "year": "1994",
-      "img": "./assets/machinehead/burnmyeyes1994.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/machinehead/burnmyeyes1994.jpg"
     },
     {
       "bandId": "28",
       "title": "The More Things Change", 
       "year": "1997",
-      "img": "./assets/machinehead/themorethingschange1997.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/machinehead/themorethingschange1997.jpg"
     },
     {
       "bandId": "28",
       "title": "The Burning Red", 
       "year": "1999",
-      "img": "./assets/machinehead/theburningred1999.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/machinehead/theburningred1999.jpg"
     },
     {
       "bandId": "28",
       "title": "Super Charger", 
       "year": "2001",
-      "img": "./assets/machinehead/supercharger2001.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/machinehead/supercharger2001.jpg"
     },
     {
       "bandId": "28",
       "title": "Through thes Shes of Empires", 
       "year": "2003",
-      "img": "./assets/machinehead/throughthesshesofempires2003.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/machinehead/throughthesshesofempires2003.jpg"
     },
     {
       "bandId": "28",
       "title": "The Blackening", 
       "year": "2007",
-      "img": "./assets/machinehead/theblackening2007.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/machinehead/theblackening2007.jpg"
     },
     {
       "bandId": "28",
       "title": "Unto the Locust", 
       "year": "2011",
-      "img": "./assets/machinehead/untothelocustspecialedition2011.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/machinehead/untothelocustspecialedition2011.jpg"
     },
 
     {
       "bandId": "29",
       "title": "Jesus de Chamberi", 
       "year": "1996",
-      "img": "./assets/magodeoz/jesusdechamberi1996.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/magodeoz/jesusdechamberi1996.jpg"
     },
     {
       "bandId": "29",
       "title": "La Leyenda de la Mancha", 
       "year": "1998",
-      "img": "./assets/magodeoz/laleyendadelamancha1998.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/magodeoz/laleyendadelamancha1998.jpg"
     },
     {
       "bandId": "29",
       "title": "Finisterra", 
       "year": "2000",
-      "img": "./assets/magodeoz/finisterra2000.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/magodeoz/finisterra2000.jpg"
     },
     {
       "bandId": "29",
       "title": "Gaia", 
       "year": "2003",
-      "img": "./assets/magodeoz/gaia2003.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/magodeoz/gaia2003.jpg"
     },
     {
       "bandId": "29",
       "title": "Gaia 2: La Voz Dormida", 
       "year": "2005",
-      "img": "./assets/magodeoz/gaia2lavozdormida2005.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/magodeoz/gaia2lavozdormida2005.jpg"
     },
     {
       "bandId": "29",
       "title": "La Ciudad de los Árboles", 
       "year": "2007",
-      "img": "./assets/magodeoz/laciudaddelosarboles2007.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/magodeoz/laciudaddelosarboles2007.jpg"
     },
     {
       "bandId": "29",
       "title": "Gaia 3: Atlantia", 
       "year": "2010",
-      "img": "./assets/magodeoz/gaia3atlantia2010.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/magodeoz/gaia3atlantia2010.jpg"
     },
     {
       "bandId": "29",
       "title": "Hechizos, Pocimas y Brujeria", 
       "year": "2012",
-      "img": "./assets/magodeoz/hechizospocimasybrujeria2012.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/magodeoz/hechizospocimasybrujeria2012.jpg"
     },
     {
       "bandId": "29",
       "title": "Ilusiana", 
       "year": "2014",
-      "img": "./assets/magodeoz/ilusiana2014.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/magodeoz/ilusiana2014.jpg"
     },
     {
       "bandId": "29",
       "title": "Ira Dei", 
       "year": "2019",
-      "img": "./assets/magodeoz/iradei2019.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/magodeoz/iradei2019.jpg"
     },
     {
       "bandId": "29",
       "title": "Bandera Negra", 
       "year": "2021",
-      "img": "./assets/magodeoz/banderanegra2021.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/magodeoz/banderanegra2021.jpg"
     },
 
     {
       "bandId": "30",
       "title": "Killing is my Business and Business is Good", 
       "year": "1985",
-      "img": "./assets/megadeth/killingismybusinessandbusinessisgood1985.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/megadeth/killingismybusinessandbusinessisgood1985.jpg"
     },
     {
       "bandId": "30",
       "title": "Peace Sell But Whos Buying", 
       "year": "1986",
-      "img": "./assets/megadeth/peacesellsbutwhosbuying1986.jpeg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/megadeth/peacesellsbutwhosbuying1986.jpeg"
     },
     {
       "bandId": "30",
       "title": "So Far So Good So What", 
       "year": "1988",
-      "img": "./assets/megadeth/sofarsogoodsowhat1988.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/megadeth/sofarsogoodsowhat1988.jpg"
     },
     {
       "bandId": "30",
       "title": "Rust in Peace", 
       "year": "1990",
-      "img": "./assets/megadeth/rustinpeace1990.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/megadeth/rustinpeace1990.jpg"
     },
     {
       "bandId": "30",
       "title": "Countdown to Extinction", 
       "year": "1992",
-      "img": "./assets/megadeth/countdowntoextinction1992.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/megadeth/countdowntoextinction1992.jpg"
     },
     {
       "bandId": "30",
       "title": "Youthanasia", 
       "year": "1994",
-      "img": "./assets/megadeth/youthanasia1994.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/megadeth/youthanasia1994.jpg"
     },
     {
       "bandId": "30",
       "title": "Risk", 
       "year": "1999",
-      "img": "./assets/megadeth/risk1999.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/megadeth/risk1999.jpg"
     },
     {
       "bandId": "30",
       "title": "The System has Failed", 
       "year": "2004",
-      "img": "./assets/megadeth/thesystemhasfailed2004.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/megadeth/thesystemhasfailed2004.jpg"
     },
     {
       "bandId": "30",
       "title": "United Abominations", 
       "year": "2007",
-      "img": "./assets/megadeth/unitedabominations2007.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/megadeth/unitedabominations2007.jpg"
     },
     {
       "bandId": "30",
       "title": "End Game", 
       "year": "2009",
-      "img": "./assets/megadeth/endgame2009.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/megadeth/endgame2009.jpg"
     },
     {
       "bandId": "30",
       "title": "Th1rt33n", 
       "year": "2011",
-      "img": "./assets/megadeth/thirteen2011.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/megadeth/thirteen2011.jpg"
     },
     {
       "bandId": "30",
       "title": "Super Collider", 
       "year": "2013",
-      "img": "./assets/megadeth/supercollider2013.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/megadeth/supercollider2013.jpg"
     },
     {
       "bandId": "30",
       "title": "Dystopia", 
       "year": "2016",
-      "img": "./assets/megadeth/dystopia2016.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/megadeth/dystopia2016.jpg"
     },
 
     {
       "bandId": "31",
       "title": "Kill ’Em All", 
       "year": "1983",
-      "img": "./assets/metallica/killemall1983.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/metallica/killemall1983.jpg"
     },
     {
       "bandId": "31",
       "title": "Ride the LIghthing", 
       "year": "1984",
-      "img": "./assets/metallica/ridethelightning1984.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/metallica/ridethelightning1984.jpg"
     },
     {
       "bandId": "31",
       "title": "Master of Puppets", 
       "year": "1986",
-      "img": "./assets/metallica/masterofpuppets1986.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/metallica/masterofpuppets1986.jpg"
     },
     {
       "bandId": "31",
       "title": "Black", 
       "year": "1991",
-      "img": "./assets/metallica/black1991.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/metallica/black1991.jpg"
     },
     {
       "bandId": "31",
       "title": "Load", 
       "year": "1996",
-      "img": "./assets/metallica/load1996.jpeg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/metallica/load1996.jpeg"
     },
     {
       "bandId": "31",
       "title": "Reload", 
       "year": "1997",
-      "img": "./assets/metallica/reload1997.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/metallica/reload1997.jpg"
     },
     {
       "bandId": "31",
       "title": "And Justice for All", 
       "year": "1998",
-      "img": "./assets/metallica/andjusticeforall1998.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/metallica/andjusticeforall1998.jpg"
     },
     {
       "bandId": "31",
       "title": "Garage Inc.", 
       "year": "1998",
-      "img": "./assets/metallica/garageinc1998.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/metallica/garageinc1998.jpg"
     },
     {
       "bandId": "31",
       "title": "Stanger", 
       "year": "2003",
-      "img": "./assets/metallica/stanger2003.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/metallica/stanger2003.jpg"
     },
     {
       "bandId": "31",
       "title": "Death Magnetic", 
       "year": "2008",
-      "img": "./assets/metallica/deathmagnetic2008.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/metallica/deathmagnetic2008.jpg"
     },
     {
       "bandId": "31",
       "title": "Beyond Magnetic", 
       "year": "2011",
-      "img": "./assets/metallica/beyondmagnetic2011.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/metallica/beyondmagnetic2011.jpg"
     },
     {
       "bandId": "31",
       "title": "Hardwired to Self Destruct", 
       "year": "2016",
-      "img": "./assets/metallica/hardwiredtoselfdestruct2016.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/metallica/hardwiredtoselfdestruct2016.jpg"
     },
 
     {
       "bandId": "32",
       "title": "Showbiz", 
       "year": "1999",
-      "img": "./assets/muse/1999showbiz.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/muse/1999showbiz.jpg"
     },
     {
       "bandId": "32",
       "title": "Origin of Symmetry", 
       "year": "2001",
-      "img": "./assets/muse/2001originofsymmetry.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/muse/2001originofsymmetry.jpg"
     },
     {
       "bandId": "32",
       "title": "Absolution", 
       "year": "2003",
-      "img": "./assets/muse/2003absolution.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/muse/2003absolution.jpg"
     },
     {
       "bandId": "32",
       "title": "Black Holes and Revelations", 
       "year": "2006",
-      "img": "./assets/muse/2006blackholesandrevelations.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/muse/2006blackholesandrevelations.jpg"
     },
     {
       "bandId": "32",
       "title": "The Resistence", 
       "year": "2009",
-      "img": "./assets/muse/2009theresistance.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/muse/2009theresistance.jpg"
     },
     {
       "bandId": "32",
       "title": "The do 2nd Law", 
       "year": "2012",
-      "img": "./assets/muse/2012thedosndlaw.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/muse/2012thedosndlaw.jpg"
     },
     {
       "bandId": "32",
       "title": "Drones", 
       "year": "2015",
-      "img": "./assets/muse/2015drones.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/muse/2015drones.jpg"
     },
     {
       "bandId": "32",
       "title": "Simulation Theory", 
       "year": "2018",
-      "img": "./assets/muse/2018simulationtheory.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/muse/2018simulationtheory.jpg"
     },
 
     {
       "bandId": "33",
       "title": "I Brought you My Bullets You Brought Me Your Love", 
       "year": "2002",
-      "img": "./assets/mychemicalromance/ibroughtyoumybulletsyoubroughtmeyourlove.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/mychemicalromance/ibroughtyoumybulletsyoubroughtmeyourlove.jpg"
     },{
       "bandId": "33",
       "title": "Three Cheers for Sweet Revenge", 
       "year": "2004",
-      "img": "./assets/mychemicalromance/threecheersforsweetrevenge.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/mychemicalromance/threecheersforsweetrevenge.jpg"
     },
 
     {
       "bandId": "33",
       "title": "The Black Parade", 
       "year": "2006",
-      "img": "./assets/mychemicalromance/theblackparade.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/mychemicalromance/theblackparade.jpg"
     },
     {
       "bandId": "33",
       "title": "Danger Days", 
       "year": "2010",
-      "img": "./assets/mychemicalromance/dangerdays.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/mychemicalromance/dangerdays.jpg"
     },
 
     {
       "bandId": "34",
       "title": "Metal Magic", 
       "year": "1983",
-      "img": "./assets/pantera/metalmagic.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/pantera/metalmagic.jpg"
     },
     {
       "bandId": "34",
       "title": "Projects in the Jungle", 
       "year": "1984",
-      "img": "./assets/pantera/projectsinthejungle.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/pantera/projectsinthejungle.jpg"
     },
     {
       "bandId": "34",
       "title": "I Am the Night", 
       "year": "1985",
-      "img": "./assets/pantera/iamthenight.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/pantera/iamthenight.jpg"
     },
     {
       "bandId": "34",
       "title": "Power Metal", 
       "year": "1988",
-      "img": "./assets/pantera/powermetal.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/pantera/powermetal.jpg"
     },
     {
       "bandId": "34",
       "title": "Cowboys from Hell", 
       "year": "1990",
-      "img": "./assets/pantera/cowboysfromhell.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/pantera/cowboysfromhell.jpg"
     },
     {
       "bandId": "34",
       "title": "Vulgar Display of Power", 
       "year": "1992",
-      "img": "./assets/pantera/vulgardisplayofpower.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/pantera/vulgardisplayofpower.jpg"
     },
     {
       "bandId": "34",
       "title": "Far Beyond Driven", 
       "year": "1994",
-      "img": "./assets/pantera/farbeyonddriven.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/pantera/farbeyonddriven.jpg"
     },
     {
       "bandId": "34",
       "title": "The Great Southern Trendkill", 
       "year": "1996",
-      "img": "./assets/pantera/thegreatsoutherntrendkill.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/pantera/thegreatsoutherntrendkill.jpg"
     },
     {
       "bandId": "34",
       "title": "Reinventing the Steel", 
       "year": "2000",
-      "img": "./assets/pantera/reinventingthesteel.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/pantera/reinventingthesteel.jpg"
     },
 
     {
       "bandId": "35",
       "title": "The Dark Side of the Moon", 
       "year": "1973",
-      "img": "./assets/pinkfloyd/thedarksideofthemoon1973.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/pinkfloyd/thedarksideofthemoon1973.jpg"
     },
     {
       "bandId": "35",
       "title": "Wish you were here", 
       "year": "1975",
-      "img": "./assets/pinkfloyd/wishyouwerehere1975.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/pinkfloyd/wishyouwerehere1975.jpg"
     },
     {
       "bandId": "35",
       "title": "The Wall", 
       "year": "1979",
-      "img": "./assets/pinkfloyd/thewall1979.jpeg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/pinkfloyd/thewall1979.jpeg"
     },
     {
       "bandId": "35",
       "title": "The Final Cut", 
       "year": "1983",
-      "img": "./assets/pinkfloyd/thefinalcut1983.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/pinkfloyd/thefinalcut1983.jpg"
     },
     {
       "bandId": "35",
       "title": "The Division Bell", 
       "year": "1994",
-      "img": "./assets/pinkfloyd/thedivisionbell1994.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/pinkfloyd/thedivisionbell1994.jpg"
     },
     {
       "bandId": "35",
       "title": "Animals", 
       "year": "1997",
-      "img": "./assets/pinkfloyd/animals1977.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/pinkfloyd/animals1977.jpg"
     },
     {
       "bandId": "35",
       "title": "The Endless River", 
       "year": "2014",
-      "img": "./assets/pinkfloyd/theendlessriver2014.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/pinkfloyd/theendlessriver2014.jpg"
     },
 
     {
       "bandId": "36",
       "title": "Herzeleid", 
       "year": "1995",
-      "img": "./assets/rammstein/herzeleid1995.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/rammstein/herzeleid1995.jpg"
     },
     {
       "bandId": "36",
       "title": "Sehnsucht", 
       "year": "1997",
-      "img": "./assets/rammstein/sehnsucht1997.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/rammstein/sehnsucht1997.jpg"
     },
     {
       "bandId": "36",
       "title": "Mutter", 
       "year": "2001",
-      "img": "./assets/rammstein/mutter2001.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/rammstein/mutter2001.jpg"
     },
     {
       "bandId": "36",
       "title": "Reise, Reise", 
       "year": "2004",
-      "img": "./assets/rammstein/reisereise2004.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/rammstein/reisereise2004.jpg"
     },
     {
       "bandId": "36",
       "title": "Rosenrot", 
       "year": "2005",
-      "img": "./assets/rammstein/rosenrot2005.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/rammstein/rosenrot2005.jpg"
     },
     {
       "bandId": "36",
       "title": "Liebe ist Fur Alleda", 
       "year": "2009",
-      "img": "./assets/rammstein/liebeistfuralleda2009.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/rammstein/liebeistfuralleda2009.jpg"
     },
     {
       "bandId": "36",
       "title": "Rammstein", 
       "year": "2019",
-      "img": "./assets/rammstein/rammstein2019.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/rammstein/rammstein2019.jpg"
     },
     {
       "bandId": "36",
       "title": "Zeit", 
       "year": "2022",
-      "img": "./assets/rammstein/zeit2022.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/rammstein/zeit2022.jpg"
     },
 
     {
       "bandId": "37",
       "title": "Esoptron", 
       "year": "1995",
-      "img": "./assets/septicflesh/esoptron1995.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/septicflesh/esoptron1995.jpg"
     },
     {
       "bandId": "37",
       "title": "Ophidian Whell", 
       "year": "1997",
-      "img": "./assets/septicflesh/ophidianwheel1997.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/septicflesh/ophidianwheel1997.jpg"
     },
     {
       "bandId": "37",
       "title": "A Fallen Temple", 
       "year": "1998",
-      "img": "./assets/septicflesh/afallentemple1998.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/septicflesh/afallentemple1998.jpg"
     },
     {
       "bandId": "37",
       "title": "Revolution DNA", 
       "year": "1999",
-      "img": "./assets/septicflesh/revolutiondna1999.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/septicflesh/revolutiondna1999.jpg"
     },
     {
       "bandId": "37",
       "title": "Sumerian Daemons", 
       "year": "2003",
-      "img": "./assets/septicflesh/sumeriandaemons2003.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/septicflesh/sumeriandaemons2003.jpg"
     },
     {
       "bandId": "37",
       "title": "Communion", 
       "year": "2008",
-      "img": "./assets/septicflesh/communion2008.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/septicflesh/communion2008.jpg"
     },
     {
       "bandId": "37",
       "title": "Mystic Place of Dawn", 
       "year": "2013",
-      "img": "./assets/septicflesh/mysticplacesofdawn2013.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/septicflesh/mysticplacesofdawn2013.jpg"
     },
     {
       "bandId": "37",
       "title": "The Great Mass", 
       "year": "2014",
-      "img": "./assets/septicflesh/thegreatmass2014.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/septicflesh/thegreatmass2014.jpg"
     },
     {
       "bandId": "37",
       "title": "Titan", 
       "year": "2014",
-      "img": "./assets/septicflesh/titan2014.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/septicflesh/titan2014.jpg"
     },
     {
       "bandId": "37",
       "title": "Codex Omega", 
       "year": "2017",
-      "img": "./assets/septicflesh/codexomega2017.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/septicflesh/codexomega2017.jpg"
     },
     {
       "bandId": "37",
       "title": "Modern Primitive", 
       "year": "2022",
-      "img": "./assets/septicflesh/modernprimitive.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/septicflesh/modernprimitive.jpg"
     },
 
     {
       "bandId": "38",
       "title": "At Sixes and Sevens", 
       "year": "2002",
-      "img": "./assets/sirenia/atsixesandsevens2002.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/sirenia/atsixesandsevens2002.jpg"
     },
     {
       "bandId": "38",
       "title": "A Nelixir for Existence", 
       "year": "2004",
-      "img": "./assets/sirenia/anelixirforexistence2004.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/sirenia/anelixirforexistence2004.jpg"
     },
     {
       "bandId": "38",
       "title": "Nine Destinies and a Down Fall", 
       "year": "2007",
-      "img": "./assets/sirenia/ninedestiniesandadownfall2007.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/sirenia/ninedestiniesandadownfall2007.jpg"
     },
     {
       "bandId": "38",
       "title": "The 13th Floor", 
       "year": "2009",
-      "img": "./assets/sirenia/the13thfloor2009.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/sirenia/the13thfloor2009.jpg"
     },
     {
       "bandId": "38",
       "title": "The Enigma of Life", 
       "year": "2011",
-      "img": "./assets/sirenia/theenigmaoflife2011.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/sirenia/theenigmaoflife2011.jpg"
     },
     {
       "bandId": "38",
       "title": "Perils of the Deep Blue", 
       "year": "2013",
-      "img": "./assets/sirenia/perilsofthedeepblue2013.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/sirenia/perilsofthedeepblue2013.jpg"
     },
     {
       "bandId": "38",
       "title": "The Seventh Life Path", 
       "year": "2015",
-      "img": "./assets/sirenia/theseventhlifepath2015.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/sirenia/theseventhlifepath2015.jpg"
     },
     {
       "bandId": "38",
       "title": "Dim Days of Dolor", 
       "year": "2016",
-      "img": "./assets/sirenia/dimdaysofdolor2016.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/sirenia/dimdaysofdolor2016.jpg"
     },
     {
       "bandId": "38",
       "title": "Arcane Astral Aeons", 
       "year": "2018",
-      "img": "./assets/sirenia/arcaneastralaeons2018.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/sirenia/arcaneastralaeons2018.jpg"
     },
     {
       "bandId": "38",
       "title": "Riddles Ruins & Revelations", 
       "year": "2021",
-      "img": "./assets/sirenia/riddlesruinsyrevelations2021.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/sirenia/riddlesruinsyrevelations2021.jpg"
     },
 
     {
       "bandId": "39",
       "title": "Dreamspace", 
       "year": "1994",
-      "img": "./assets/stratovarius/dreamspace.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/stratovarius/dreamspace.jpg"
     },
     {
       "bandId": "39",
       "title": "Episode", 
       "year": "1996",
-      "img": "./assets/stratovarius/episode.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/stratovarius/episode.jpg"
     },
     {
       "bandId": "39",
       "title": "Destiny", 
       "year": "1998",
-      "img": "./assets/stratovarius/destiny.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/stratovarius/destiny.jpg"
     },
     {
       "bandId": "39",
       "title": "Infinite", 
       "year": "2000",
-      "img": "./assets/stratovarius/infinite.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/stratovarius/infinite.jpg"
     },
     {
       "bandId": "39",
       "title": "Elements", 
       "year": "2003",
-      "img": "./assets/stratovarius/elements.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/stratovarius/elements.jpg"
     },
     {
       "bandId": "39",
       "title": "Polaris", 
       "year": "2009",
-      "img": "./assets/stratovarius/polaris.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/stratovarius/polaris.jpg"
     },
     {
       "bandId": "39",
       "title": "Elysium", 
       "year": "2011",
-      "img": "./assets/stratovarius/elysium.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/stratovarius/elysium.jpg"
     },
     {
       "bandId": "39",
       "title": "Nemesis", 
       "year": "2013",
-      "img": "./assets/stratovarius/nemesis.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/stratovarius/nemesis.jpg"
     },
     {
       "bandId": "39",
       "title": "Eternal", 
       "year": "2015",
-      "img": "./assets/stratovarius/eternal.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/stratovarius/eternal.jpg"
     },
 
     {
       "bandId": "40",
       "title": "Help!", 
       "year": "1965",
-      "img": "./assets/thebeatles/1965help.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/thebeatles/1965help.jpg"
     },
     {
       "bandId": "40",
       "title": "Rubber Soul", 
       "year": "1965",
-      "img": "./assets/thebeatles/1965rubbersoul.jpeg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/thebeatles/1965rubbersoul.jpeg"
     },
     {
       "bandId": "40",
       "title": "The Beatles", 
       "year": "1968",
-      "img": "./assets/thebeatles/1968thebeatles.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/thebeatles/1968thebeatles.jpg"
     },
     {
       "bandId": "40",
       "title": "Abbey Road", 
       "year": "1969",
-      "img": "./assets/thebeatles/1969abbeyroad.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/thebeatles/1969abbeyroad.jpg"
     },
     {
       "bandId": "40",
       "title": "Let it Be", 
       "year": "1970",
-      "img": "./assets/thebeatles/1970letitbe.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/thebeatles/1970letitbe.jpg"
     },
 
     {
       "bandId": "41",
       "title": "Playboys", 
       "year": "1997",
-      "img": "./assets/therasmus/1997playboys.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/therasmus/1997playboys.jpg"
     },
     {
       "bandId": "41",
       "title": "Dead Letters", 
       "year": "2003",
-      "img": "./assets/therasmus/2003deadletters.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/therasmus/2003deadletters.jpg"
     },
     {
       "bandId": "41",
       "title": "Hide from the Sun", 
       "year": "2005",
-      "img": "./assets/therasmus/2005hidefromthesun.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/therasmus/2005hidefromthesun.jpg"
     },
     {
       "bandId": "41",
       "title": "Black Roses", 
       "year": "2008",
-      "img": "./assets/therasmus/2008blackroses.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/therasmus/2008blackroses.jpg"
     },
     {
       "bandId": "41",
       "title": "Dark Matters", 
       "year": "2017",
-      "img": "./assets/therasmus/2017darkmatters.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/therasmus/2017darkmatters.jpg"
     },
 
     {
       "bandId": "42",
       "title": "Medieval", 
       "year": "1997",
-      "img": "./assets/tierrasanta/medieval1997.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/tierrasanta/medieval1997.jpg"
     },
     {
       "bandId": "42",
       "title": "Legendario", 
       "year": "1999",
-      "img": "./assets/tierrasanta/legendario1999.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/tierrasanta/legendario1999.jpg"
     },
     {
       "bandId": "42",
       "title": "Tierras de Leyenda", 
       "year": "2000",
-      "img": "./assets/tierrasanta/tierrasdeleyenda2000.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/tierrasanta/tierrasdeleyenda2000.jpg"
     },
     {
       "bandId": "42",
       "title": "Sangre de Reyes", 
       "year": "2001",
-      "img": "./assets/tierrasanta/sangredereyes2001.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/tierrasanta/sangredereyes2001.jpg"
     },
     {
       "bandId": "42",
       "title": "Indomable", 
       "year": "2003",
-      "img": "./assets/tierrasanta/indomable2003.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/tierrasanta/indomable2003.jpg"
     },
     {
       "bandId": "42",
       "title": "Las Mil y una Noches", 
       "year": "2004",
-      "img": "./assets/tierrasanta/lasmilyunanoches2004.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/tierrasanta/lasmilyunanoches2004.jpg"
     },
     {
       "bandId": "42",
       "title": "Caminos de Fuego", 
       "year": "2010",
-      "img": "./assets/tierrasanta/caminosdefuego2010.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/tierrasanta/caminosdefuego2010.jpg"
     },
     {
       "bandId": "42",
       "title": "Mi Nombres Sera Leyenda", 
       "year": "2013",
-      "img": "./assets/tierrasanta/minombreseraleyenda2013.jpg"
+      "img": "https://vicmosojeda.github.io/datajson/assets/tierrasanta/minombreseraleyenda2013.jpg"
     }
   ]
 }
