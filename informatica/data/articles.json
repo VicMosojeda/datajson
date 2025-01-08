@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Breaking News: AI Revolution",
+    "content": "Artificial Intelligence is reshaping industries and creating new opportunities worldwide. Experts predict that AI will become a central part of daily life.",
+    "date": "2023-01-01",
+    "author": "John Doe",
+    "category": "Technology",
+    "image": "/public/informatica/informatica.webp",
+    "tags": ["AI", "Technology", "Innovation"]
+  },
+  {
+    "id": 2,
+    "title": "Climate Change: A Global Concern",
+    "content": "The effects of climate change are becoming increasingly apparent. Governments and organizations are pushing for sustainable energy solutions.",
+    "date": "2023-01-02",
+    "author": "Jane Smith",
+    "category": "Environment",
+    "image": "/public/informatica/informatica1.jpg",
+    "tags": ["Climate", "Environment", "Sustainability"]
+  },
+  {
+    "id": 3,
+    "title": "Health and Wellness Trends for 2023",
+    "content": "From mental health awareness to fitness technology, 2023 brings new trends that are revolutionizing how we approach wellness.",
+    "date": "2023-01-03",
+    "author": "Alex Johnson",
+    "category": "Health",
+    "image": "/public/informatica/informatica2.jpg",
+    "tags": ["Health", "Wellness", "Fitness"]
+  }
+]

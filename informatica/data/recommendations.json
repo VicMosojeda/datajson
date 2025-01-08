@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "title": "Global Warming: A Rising Concern",
+    "description": "An in-depth look at the effects of climate change on global ecosystems.",
+    "url": "https://example.com/global-warming"
+  },
+  {
+    "id": 2,
+    "title": "The Future of AI in Medicine",
+    "description": "How artificial intelligence is transforming the healthcare industry.",
+    "url": "https://example.com/ai-medicine"
+  },
+  {
+    "id": 3,
+    "title": "The Ethics of AI in Finance",
+    "description": "Exploring the moral implications of AI in the financial world.",
+    "url": "https://example.com/ai-finance"
+  },
+  {
+    "id": 4,
+    "title": "The Impact of AI on Jobs",
+    "description": "Understanding the potential disruption of the job market due to AI.",
+    "url": "https://example.com/ai-jobs"
+  },
+  {
+    "id": 5,
+    "title": "The Role of AI in Education",
+    "description": "How AI is transforming the education sector and its impact on society.",
+    "url": "https://example.com/ai-education"
+  }
+]
+

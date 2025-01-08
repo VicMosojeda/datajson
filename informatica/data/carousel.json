@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Artículo Destacado 1",
+    "image": "/public/informatica/informatica.webp",
+    "description": "Descripción breve del artículo 1"
+  },
+  {
+    "id": 2,
+    "title": "Artículo Destacado 2",
+    "image": "/public/informatica/informatica1.jpg",
+    "description": "Descripción breve del artículo 2"
+  },
+  {
+    "id": 3,
+    "title": "Artículo Destacado 3",
+    "image": "/public/informatica/informatica2.jpg",
+    "description": "Descripción breve del artículo 3"
+  }
+]
