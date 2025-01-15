@@ -6,7 +6,7 @@
     "date": "2023-01-01",
     "author": "John Doe",
     "category": "Technology",
-    "image": "https://vicmosojeda.github.io/datajson/informatica/informatica.webp",
+    "image": "https://vicmosojeda.github.io/datajson/informatica/img/informatica.webp",
     "tags": ["AI", "Technology", "Innovation"]
   },
   {
@@ -16,7 +16,7 @@
     "date": "2023-01-02",
     "author": "Jane Smith",
     "category": "Environment",
-    "image": "https://vicmosojeda.github.io/datajson/informatica/informatica1.jpg",
+    "image": "https://vicmosojeda.github.io/datajson/informatica/img/informatica1.jpg",
     "tags": ["Climate", "Environment", "Sustainability"]
   },
   {
@@ -26,7 +26,7 @@
     "date": "2023-01-03",
     "author": "Alex Johnson",
     "category": "Health",
-    "image": "https://vicmosojeda.github.io/datajson/informatica/informatica2.jpg",
+    "image": "https://vicmosojeda.github.io/datajson/informatica/img/informatica2.jpg",
     "tags": ["Health", "Wellness", "Fitness"]
   }
 ]
