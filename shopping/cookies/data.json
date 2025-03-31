@@ -3,12 +3,12 @@
     "id": 1,
     "name": "Chocolate Chip Cookies",
     "price": 1.99,
-    "image": "./img/cookies.webp"
+    "image": "../img/cookies.webp"
   },
   {
     "id": 2,
     "name": "Oatmeal Raisin Cookies",
     "price": 1.99,
-    "image": "./img/cookies.webp"
+    "image": "../img/cookies.webp"
   }
 ]
