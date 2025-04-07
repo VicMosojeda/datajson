@@ -10,5 +10,23 @@
     "name": "Oatmeal Raisin Cookies",
     "price": 1.99,
     "img": "../img/cookies.webp"
+  },
+  {
+    "id": 3,
+    "name": "Peanut Butter Cookies",
+    "price": 1.99,
+    "img": "../img/cookies.webp"
+  },
+  {
+    "id": 4,
+    "name": "Chocolate Chip Cookies",
+    "price": 1.99,
+    "img": "../img/cookies.webp"
+  },
+  {
+    "id": 5,
+    "name": "Oatmeal Raisin Cookies",
+    "price": 1.99,
+    "img": "../img/cookies.webp"
   }
 ]
